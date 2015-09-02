@@ -3,21 +3,19 @@
 
 <html lang="en" class="no-js">
 <head>
-	<title>Housebuild</title>
+	<title>JLTCommunity | Contact</title>
 
 	<meta charset="utf-8">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<!-- Begin commoncsstoinclude.php Include -->
+			<?php
+   				require('commoncsstoinclude.php');
+			?>
+	<!-- End commoncsstoinclude.php Include -->
 	
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="css/font-awesome.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="css/animate.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
 
 </head>
 <body id="contact1Wrap">
@@ -44,9 +42,9 @@
 						<h2>Contact Info</h2>
 						<p>You can contact or visit us in our office from Monday to Friday from 8:00 - 17:00</p>
 						<ul class="information-list">
-							<li><i class="fa fa-map-marker"></i><span>907 N Randolph street, Arlington County, Virginia, United States</span></li>
-							<li><i class="fa fa-phone"></i><span>+1 703-697-1776</span><span>+1 605-315-8544</span></li>
-							<li><i class="fa fa-envelope-o"></i><a href="#">nunforest@gmail.com</a></li>
+							<li><i class="fa fa-map-marker"></i><span>Jumeirah Lake Towers, Sheikh Zayed Road, Dubai, United Arab Emirates</span></li>
+							<li><i class="fa fa-phone"></i><span>+971 503 786 757</span></li>
+							<li><i class="fa fa-envelope-o"></i><a href="#">geetha9999@aol.com</a></li>
 						</ul>						
 					</div>
 				</div>

@@ -39,7 +39,7 @@
 							<div class="footer-widget info-widget">
 							<h2>Info</h2>
 								<p class="first-par">You can contact or visit us during working time.</p>
-								<p><span>Tel: </span> 1234 - 5678 - 9012</p>
+								<p><span>Tel: </span>+971 503 786 757</p>
 								<p><span>Email: </span> geetha9999@aol.com</p>
 								<p><span>Working Hours: </span> 8:00 hrs - 17:00 hrs</p>
 								</div>

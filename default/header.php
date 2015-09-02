@@ -7,7 +7,7 @@
 						<div class="row">
 							<div class="col-md-6">
 								<p>
-									<span><i class="fa fa-phone"></i>1234 - 5678 - 9012</span>
+									<span><i class="fa fa-phone"></i>+971 503 786 757</span>
 									<span><i class="fa fa-envelope-o"></i>geetha9999@aol.com</span>
 								</p>
 							</div>	

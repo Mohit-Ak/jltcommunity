@@ -3,7 +3,7 @@
 
 <html lang="en" class="no-js">
 <head>
-	<title>Housebuild</title>
+	<title>JLTCommunity | Banks/ATMs</title>
 
 	<meta charset="utf-8">
 
