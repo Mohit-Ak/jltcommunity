@@ -262,7 +262,7 @@
 			================================================== -->
 		<section class="banner-section">
 			<div class="container">
-				<h2>All You Need for building Creative &amp; Professional<a href="projects.html" class="button-one">click here</a></h2>
+				<h2>Be a part of the prestigious community.<a href="contact2.php" class="button-one">Contact Us</a></h2>
 			</div>
 		</section>
 		<!-- End banner section -->
@@ -317,75 +317,151 @@
 		<section class="projects-section">
 			<div class="container">
 				<div class="project-title">
-					<h2>Our - Latest Projects</h2>
-					<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<h2>Local Amenities</h2>
+					<p>At Jumeriah lake towers, one would find all the comfort and opulence at sniffing distance.</br>
+					Be it Restaurants, hospitals, supermarkets, saloons, banks or laundry services; you name it and Jumeriah Lake Towers has it!</p>
 				</div>
 				<ul class="filter">
 					<li><a class="active" href="#" data-filter="*">Show All</a></li>
-					<li><a href="#" data-filter=".buildings">Buildings</a></li>
-					<li><a href="#" data-filter=".interior">Interior</a></li>
-					<li><a href="#" data-filter=".energy">Energy</a></li>
-					<li><a href="#" data-filter=".isolation">Isolation</a></li>
+					<li><a href="#" data-filter=".hotels">Hotels</a></li>
+					<li><a href="#" data-filter=".healthcare">Healthcare</a></li>
+					<li><a href="#" data-filter=".wellness">Wellness</a></li>
+					<li><a href="#" data-filter=".supermarkets">Supermarkets</a></li>
+					<li><a href="#" data-filter=".otherservices">Other Services</a></li>
+					<li><a href="#" data-filter=".realestate">Real Estate</a></li>
+					<li><a href="#" data-filter=".contactus">Contact Us</a></li>
 				</ul>
 				<div class="project-box iso-call">
-					<div class="project-post buildings isolation">
-						<img src="upload/projects/1.jpg" alt="">
+					<div class="project-post hotels">
+						<a href="hotels.php"><img src="upload/projects/hotels.png" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Elegant Building</a></h2>
-							<span>bulding, house</span>
+							<h2>Hotels</h2>
+							<span>Restaurants & Quickbites</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post interior">
-						<img src="upload/projects/2.jpg" alt="">
+					<div class="project-post healthcare">
+						<a href="hospitals.php"><img src="upload/projects/hospital.png" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Beatiful House</a></h2>
-							<span>bulding, house</span>
+							<h2>Hospitals</h2>
+							<span>Hospitals, Clinics</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post buildings isolation">
-						<img src="upload/projects/3.jpg" alt="">
+					<div class="project-post healthcare">
+						<a href="pharmacy.php"><img src="upload/projects/pharmacy.jpg" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Classic House</a></h2>
-							<span>bulding, house</span>
+							<h2>Pharmacy</h2>
+							<span>Chemmist , druggist</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post buildings">
-						<img src="upload/projects/4.jpg" alt="">
+					
+					<div class="project-post wellness">
+						<a href="fitness.php"><img src="upload/projects/fitness.png" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Modern and trending house</a></h2>
-							<span>bulding, house</span>
+							<h2>Fitness Centers</h2>
+							<span>Gyms & fitness centers</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post interior isolation">
-						<img src="upload/projects/5.jpg" alt="">
+					<div class="project-post wellness">
+						<a href="saloonspa.php"><img src="upload/projects/spa.png" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Afarist Building</a></h2>
-							<span>bulding, house</span>
+							<h2>Spas</h2>
+							<span>Saloons, Spas</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post energy">
-						<img src="upload/projects/6.jpg" alt="">
+					<div class="project-post supermarkets">
+						<a href="supermarket.php"><img src="upload/projects/Market.png" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">traditional Building</a></h2>
-							<span>bulding, house</span>
+							<h2>Shopping</h2>
+							<span>Grocery Store, Market & Malls</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post buildings">
-						<img src="upload/projects/7.jpg" alt="">
+					<div class="project-post otherservices">
+						<a href="banks.php"><img src="upload/projects/bank.jpg" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Small house</a></h2>
-							<span>bulding, house</span>
+							<h2>Banks</h2>
+							<span>Banks and Atms</span>
 						</div>
+						</a>
 					</div>
-					<div class="project-post isolation">
-						<img src="upload/projects/8.jpg" alt="">
+					<div class="project-post otherservices">
+						<a href="laundry.php"><img src="upload/projects/laundry.jpg" alt="">
 						<div class="hover-box">
-							<h2><a href="single-project.html">Large town Buildings</a></h2>
-							<span>bulding, house</span>
+							<h2>Laundry</h2>
+							<span>laundry, drycleaners</span>
 						</div>
+						</a>
 					</div>
+					<div class="project-post otherservices">
+						<img src="upload/projects/nursery.png" alt="">
+						<a href="nursery.php"><div class="hover-box">
+							<h2>Nursery</h2>
+							<span>Nursery , Plantations</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post otherservices">
+						<a href="pets.php"><img src="upload/projects/petscare.jpg" alt="">
+						<div class="hover-box">
+							<h2>Pet Care</h2>
+							<span>Pet Care, Plantations</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post otherservices">
+						<a href="specialityservices.php"><img src="upload/projects/miscellaneous.jpg" alt="">
+						<div class="hover-box">
+							<h2>Speciality Services</h2>
+							<span>Dance, Karate, Learn Arabic</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post otherservices">
+						<a href="trainingcentres.php"><img src="upload/projects/learningcenter.png" alt="">
+						<div class="hover-box">
+							<h2>Training Centers</h2>
+							<span>Dance, Karate, Learn Arabic</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post realestate">
+						<a href="buyproperty.php"><img src="upload/projects/buyprop.png" alt="">
+						<div class="hover-box">
+							<h2>Buy Property</h2>
+							<span>Be a part of Jumeriah</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post realestate">
+						<a href="sellproperty.php"><img src="upload/projects/sellprop.png" alt="">
+						<div class="hover-box">
+							<h2>Sell Property</h2>
+							<span>Leave JLT in with tears</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post realestate">
+						<a href="realestate.php"><img src="upload/projects/realestate.png" alt="">
+						<div class="hover-box">
+							<h2>Real Estate Services</h2>
+							<span>Locate real estate agents</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post contactus">
+						<a href="contact2.php"><img src="upload/projects/contactus.png" alt="">
+						<div class="hover-box">
+							<h2>Contact Us</h2>
+							<span>View us on Map</span>
+						</div>
+						</a>
+					</div>
+										
 				</div>
 			</div>
 		</section>
