@@ -329,7 +329,7 @@
 					<li><a href="#" data-filter=".supermarkets">Supermarkets</a></li>
 					<li><a href="#" data-filter=".otherservices">Other Services</a></li>
 					<li><a href="#" data-filter=".realestate">Real Estate</a></li>
-					<li><a href="#" data-filter=".contactus">Contact Us</a></li>
+					
 				</ul>
 				<div class="project-box iso-call">
 					<div class="project-post hotels">
@@ -381,8 +381,16 @@
 						</div>
 						</a>
 					</div>
+					<div class="project-post supermarkets">
+						<a href="digital.php"><img src="upload/projects/digital.png" alt="">
+						<div class="hover-box">
+							<h2>Digital Stores</h2>
+							<span>Photo studios, Photocopy, Stationery</span>
+						</div>
+						</a>
+					</div>
 					<div class="project-post otherservices">
-						<a href="banks.php"><img src="upload/projects/bank.jpg" alt="">
+						<a href="banks.php"><img src="upload/projects/bank.png" alt="">
 						<div class="hover-box">
 							<h2>Banks</h2>
 							<span>Banks and Atms</span>
@@ -390,7 +398,23 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="laundry.php"><img src="upload/projects/laundry.jpg" alt="">
+						<a href="businesses.php"><img src="upload/projects/business.png" alt="">
+						<div class="hover-box">
+							<h2>Firms / Corporates / Business</h2>
+							<span>View Accountants, Consultants and different Businnes owners</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post otherservices">
+						<a href="banks.php"><img src="upload/projects/interior.png" alt="">
+						<div class="hover-box">
+							<h2>Interior Designers</h2>
+							<span>Inter Home and Office Designer</span>
+						</div>
+						</a>
+					</div>
+					<div class="project-post otherservices">
+						<a href="laundry.php"><img src="upload/projects/laundry.png" alt="">
 						<div class="hover-box">
 							<h2>Laundry</h2>
 							<span>laundry, drycleaners</span>
@@ -414,7 +438,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="specialityservices.php"><img src="upload/projects/miscellaneous.jpg" alt="">
+						<a href="specialityservices.php"><img src="upload/projects/miscellaneous.png" alt="">
 						<div class="hover-box">
 							<h2>Speciality Services</h2>
 							<span>Dance, Karate, Learn Arabic</span>
@@ -429,38 +453,16 @@
 						</div>
 						</a>
 					</div>
+					
 					<div class="project-post realestate">
-						<a href="buyproperty.php"><img src="upload/projects/buyprop.png" alt="">
-						<div class="hover-box">
-							<h2>Buy Property</h2>
-							<span>Be a part of Jumeriah</span>
-						</div>
-						</a>
-					</div>
-					<div class="project-post realestate">
-						<a href="sellproperty.php"><img src="upload/projects/sellprop.png" alt="">
-						<div class="hover-box">
-							<h2>Sell Property</h2>
-							<span>Leave JLT in with tears</span>
-						</div>
-						</a>
-					</div>
-					<div class="project-post realestate">
-						<a href="realestate.php"><img src="upload/projects/realestate.png" alt="">
+						<a href="realestateservices.php"><img src="upload/projects/realestate.png" alt="">
 						<div class="hover-box">
 							<h2>Real Estate Services</h2>
 							<span>Locate real estate agents</span>
 						</div>
 						</a>
 					</div>
-					<div class="project-post contactus">
-						<a href="contact2.php"><img src="upload/projects/contactus.png" alt="">
-						<div class="hover-box">
-							<h2>Contact Us</h2>
-							<span>View us on Map</span>
-						</div>
-						</a>
-					</div>
+					
 										
 				</div>
 			</div>
@@ -580,9 +582,9 @@
 							<p>I am a proud member of Jumeriah Lake Community and would like to brag that the <br>place easily meets international standards in infrastrucutre and technology.<br>Would recommend JLT for commercial and non-commercial purposes</p>
 						</li>
 						<li>
-							<h2>Besim Dauti</h2>
-							<span>Project Menager</span>
-							<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. <br> Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a,<br> ultricies in, diam. Sed arcu. Cras consequat.</p>
+							<h2>Mohit A Khakharia</h2>
+							<span>Web & Mobile Developer</span>
+							<p>Jumeriah Lake towers is so alluring that I don't have enough words to describe its beauty and so I built this website to express my joy. </p>
 						</li>
 						<li>
 							<h2>Quan Ngyen</h2>
@@ -660,10 +662,9 @@
 		<section class="clients-section">
 			<div class="container">
 				<div class="clients-title">
-					<h2>Clients - Our Partners</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+					<h2>Clients / Sponsors</h2>
+					<p>Following are the clients and lead sponsors who have played an imperative part in builing this community.</br>
+					We are really grateful to their contribution.</p>
 				</div>
 				<div class="row">
 					<div class="col-md-5">
@@ -696,7 +697,7 @@
 					</div>
 					<div class="col-md-6">
 						<blockquote>
-							<p>There are some of <span>our partners</span> and <span>customers</span>, who are very satisfied with our work. <br>Do you want to be <span>next one</span> ?</p>
+							<p>There are some of <span>our sponsors</span> and <span>customers</span>, who are very satisfied with our work. <br>Do you want to be <span>next one</span> ?</p>
 						</blockquote>
 					</div>
 				</div>

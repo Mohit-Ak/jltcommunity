@@ -603,18 +603,20 @@ a.button-one {
 }
 .project-box .project-post .hover-box {
   position: absolute;
-  width: 100%;
-  left: 0;
+  width: 93%;
+  left: 10px;
   bottom: -100%;
   padding: 20px 25px;
-  background: #ffffff;
+  background: #A09D9D;
   transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
+
+
 .project-box .project-post .hover-box h2 {
-  color: #222222;
+  color: #fff;
   font-size: 17px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
@@ -637,7 +639,7 @@ a.button-one {
 }
 .project-box .project-post .hover-box span {
   font-size: 14px;
-  color: #666666;
+  color: #fff;
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   line-height: 20px;
@@ -2308,6 +2310,7 @@ footer p.copyright {
 @media (max-width: 1500px) {
   .project-box .project-post {
     width: 25%;
+    padding: 0px 10px;
   }
 }
 @media (max-width: 1199px) {

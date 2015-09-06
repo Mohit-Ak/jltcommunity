@@ -3,7 +3,7 @@
 
 <html lang="en" class="no-js">
 <head>
-	<title>JLTCommunity | Saloon And Spa</title>
+	<title>JLTCommunity | Travel</title>
 
 	<meta charset="utf-8">
 
@@ -17,7 +17,7 @@
 		<!-- End commoncsstoinclude.php Include -->
 		<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.min.css" media="screen">
 </head>
-<body id="saloonspaWrap">
+<body id="travelWrap">
 
 	<!-- Container -->
 	<div id="container">
@@ -91,11 +91,11 @@
 			</div>
 		</section>
 		<!-- End sponsor slider section -->
-		<!-- Begin saloonspa-page section -->
+		<!-- Begin travel-page section -->
 		<section class="projects-page-section">
-				<table id="saloonspaData" class="display" width="100%"></table>
+				<table id="travelData" class="display" width="100%"></table>
 		</section>
-		<!-- End saloonspa-page section -->
+		<!-- End travel-page section -->
 		
 		
 		<!-- Begin Footer Include -->
@@ -112,9 +112,8 @@
 	   			require('commonjstoinclude.php');
 			?>
 	<!-- End CommonJSIncludes Include -->
-	<script type="text/javascript" src="js/script.js"></script>
 	<script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
-	<script type="text/javascript" src="js/custom/saloonspa-data.js"></script>
+	<script type="text/javascript" src="js/custom/travel-data.js"></script>
 	
 	 <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
     <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>

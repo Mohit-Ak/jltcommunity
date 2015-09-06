@@ -40,7 +40,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/broccoli.png"  alt="slidebg1" data-lazyload="upload/slide/broccoli.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="upload/slide/sponsorlogo.png"  alt="slidebg1" data-lazyload="upload/slide/sponsorlogo.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -55,7 +55,7 @@
 								data-splitout="none"
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">Broccoli <br><span>Pizza & Pasta</span> <br>
+								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">SPONSOR NAME <br><span>Sponsor Caption</span> <br>
 							</div>
 							<!-- LAYER NR. 1 -->
 
@@ -64,7 +64,7 @@
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
 							<!-- MAIN IMAGE -->
-							<img src="images/dummy.png"  alt="2" data-lazyload="upload/slide/pizzame.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+							<img src="images/dummy.png"  alt="2" data-lazyload="upload/slide/sponsorlogo.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -79,7 +79,7 @@
 								data-splitout="none"
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">PIZZAME <br><span>Passion for Pizza</span> <br>
+								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">SPONSOR NAME <br><span>Sponsor Caption</span> <br>
 							</div>
 							<!-- LAYER NR. 1 -->
 							

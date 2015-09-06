@@ -64,24 +64,29 @@
 									<li><a href="pharmacy.php">Pharmacies</a></li>
 								</ul>
 							</li>
-							<li class="drop"><a href="supermarket.php" id="supermarketsAnchor">Super Markets</a></li>
+							<li class="drop"><a href="#" id="supermarketsAnchor">Shops / Markets</a>
+							<ul class="dropdown">
+									<li><a href="banks.php">Super Markets</a></li>
+									<li><a href="digital.php">Digital / Stationery</a></li>
+							</ul>
+							
+							</li>
 							<li class="drop"><a href="#" id="otherServicesAnchor">Other Services</a>
 								<ul class="dropdown">
 									<li><a href="banks.php">Banks & ATM</a></li>
+									<li><a href="businesses.php">Businesses & Firms</a></li>
+									<li><a href="interior.php">Interior Designers</a></li>
 									<li><a href="laundry.php">Laundry & Drycleaners</a></li>
-									<li><a href="nursery.php">Nursery</a></li>
+									<li><a href="nursery.php">Nursery / Kids Care</a></li>
 									<li><a href="pets.php">Pets Store</a></li>
 									<li><a href="specialityservices.php">Speciality Services</a></li>
 									<li><a href="trainingcentres.php">Training Centres</a></li>
+									<li><a href="travel.php">Travel Services</a></li>
 									
 									
 								</ul>
 							</li>
-							<li class="drop"><a href="blog.html" id="realEstateAnchor">Real Estate</a>
-								<ul class="dropdown">
-									<li><a href="blog.html">Buy Property</a></li>
-									<li><a href="blog-3col.html">Sell Property</a></li>
-								</ul>
+							<li class="drop"><a href="realestateservices.php" id="realEstateAnchor">Real Estate</a>
 							</li>
 							<li class="drop"><a href="contact2.php" id="contactAnchor">Contact</a>
 								<ul class="dropdown">

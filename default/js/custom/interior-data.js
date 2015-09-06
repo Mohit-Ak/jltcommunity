@@ -1,20 +1,13 @@
-    var dataSet = [
-			["","ADIB ","Cluster O, O2 Residence, ShopNo:2","04-701-8880","Banks & ATMs","","http://www.adib.ae/"],
-			["","Emirates Islamic Bank","Al Mas Tower","06-059-9995","Banks & ATMs","","www.emiratesislamic.ae"],
-			["","Bank of Baroda","Al Mas Tower","04-395-0944","Banks & ATMs","","http://www.bankofbarodauae.ae/"],
-			["","RAK Bank (ATM)","Cluster B","NA","Banks & ATMs","",""],
-			["","Dubai Bank ","","800-555","Banks & ATMs","",""],
-			["","NBD Bank","Al Mas Tower, Ground Floor","600 54 0000","Banks & ATMs","","https://www.emiratesnbd.com/en/"],
-			["","United Arab Bank","Almas Tower","800-474","Banks & ATMs","","www.uab.ae"],
-			["","United Arab Bank (ATM)","Cluster A","800-474","Banks & ATMs","","www.uab.ae"],
-			["","Mashreq Bank plus ATM (24 hr)","Reef Tower","04-424-4444","Banks & ATMs","","http://www.mashreqbank.com/"],
-			["","Noor Bank ATM","Almas Tower","800 6667","Banks & ATMs","","http://www.noorbank.com/"],
-			["","Union National Bank (ATM)","Green Lakes Tower, S1","NA","Banks & ATMs","","http://unb.com/english/index.aspx"]
+ var dataSet = [
+			["","Zen Interiors JLT","O2 tower","04-340-5050","Interior Designer","","http://www.zeninteriors.net/jumeirah-lake-towers-o2-tower-dubai-uae"],
+			["","Lake Side Interior","Cluster D2, Lake Terrace Tower","04-435-6067","Interior Designer","","http://www.tempodubai.com/contact-us"],
+			["","Office Fitouts","","04-457-9339","Interior Designer","",""],
+			["","Palladio Interiors","Cluster, Indigo Icon Tower","04-427-9610","Interior Designer","","www.palladiointeriors.ae"],
+			["","Levant (Mark of Luxury)","Cluster I, Silver Tower, Suite 19D&E","04-447-7940","Interior Designer","","http://www.levant.com/"]
 		];
 
- 
 $(document).ready(function() {
-    $('#banksData').DataTable( {
+    $('#interiorData').DataTable( {
         data: dataSet,
         columns: [
             { title: "Logo" },
@@ -41,18 +34,18 @@ $(document).ready(function() {
 	                        		  return "<span>N.A</span>";
 	                        	  }else{
 	                        		  return "<a href="+data+" target='_blank'>Map</a>";
-	                        	  }
+	                              }
 	                          }
                           },
                           {
 	                          "aTargets":[6],  
 	                          "mRender": function ( data, type, row ) {
-	                        	 // console.log("mrender Called -",data);
-	                        	  if(data==""){
-	                        		  return "<span>N.A</span>";
-	                        	  }else{
+	                        	 // console.log("mrender Called -",data); 
+	                          if(data==""){
+                        		  return "<span>N.A</span>";
+                        	  }else{
 	                              return "<a href="+data+" target='_blank'>"+data+"</a>";
-	                              }
+	                          }
 	                          }
                           }
              ]

@@ -1,23 +1,19 @@
 var dataSet = [
-    ["","Armada Pharmacy","Cluster P, Armada Tower","04-397-7777","Pharmacy","","http://www.armadaholding.com/Healthcare/ArmadaPharmacy.aspx"],
-    ["","Life Pharmacy","Cluster E, Sabah Tower, Ground Floor","04-439-1776","Pharmacy","","http://www.life-me.com/"],
-    ["","Life Pharmacy - Real 7","Cluster X","04-551-6435","Pharmacy","","http://www.life-me.com/"],
-    ["","Super Care Pharmacy JLT","Cluster E, Al shera Tower","04-454-1157","Pharmacy","","http://www.super-care.ae/"],
-    ["","Aster Pharmacy JLT","Red Diamond Bldg, Shop No: G011-B","04-369-7728","Pharmacy","","http://asterpharmacy.com/pharmacy/new-aster-pharmacy-jlt/"],
-    ["","We Care Pharmacy","Cluster D, Lake City Tower, Shop:6","04-368 6411","Pharmacy","","www.wecarepharmacies.com/"],
-    ["","Life Aid Pharmacy","Cluster V","04-431-7400","Pharmacy","",""],
-    ["","Life New Al Kanz Pharmacy","Cluster J","04-392-9669","Pharmacy","",""],
-    ["","Sarai Lakes Pharmacy","Cluster Q, Saba 2","04-447-1335","Pharmacy","",""],
-    ["","New Mark Pharmacy","Cluster T, Fortune Executive","04-432-7303","Pharmacy","",""],
-    ["","Health First Pharmacy","Cluster U. Al Seef 2","04-552-0732","Pharmacy","",""],
-    ["","Alpha Pharmacy","Cluster W, JBC , Shop No.3","04-333-5520","Pharmacy","",""],
-    ["","Sai Lakes Pharmacy","Cluster A","04-447-1337/1335","Pharmacy","",""]
-   
-];
+			["","Eagle Riders (MotorCycleRental)","Cluster H - Concorde Tower","04-430-6400","OtherServices","","http://www.eaglerider.ae/"],
+			["","Bikers ","Cluster H","052-622-1888","OtherServices","",""],
+			["","Dubai Link (travel & Tours)","Movenpick Hotel JLT","04-448 8111","OtherServices","","http://www.dubailinktours.com/"],
+			["","Exotic Tours & Travels","Cluster W","04-441-5671","OtherServices","","www.indigojlt.com"],
+			["","South Travel JLT","Cluster F, HDS Tower","04-447-3839","OtherServices","","http://www.southtravels.com/"],
+			["","Acme Travel & Tours JLT","Cluster P, Armada Tower 2","04-379-4787","OtherServices","","http://acme-travels.com/"],
+			["","AAA Rent A Car","Cluster D3, Lake Tower City","04-360-3337","OtherServices","","http://aaarentacarjlt.com/"],
+			["","PCR-Premium Car Rentals","Cluster G, Jumeirah Business Center G","04-360-9991","OtherServices","","http://pcr.ae/"],
+			["","777 Rent A Car","Cluster Q","04-363-8582","OtherServices","",""],
+			["","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","OtherServices","","www.indigojlt.com"]
+		];
 
- 
+
 $(document).ready(function() {
-    $('#pharmacyData').DataTable( {
+    $('#travelData').DataTable( {
         data: dataSet,
         columns: [
             { title: "Logo" },
@@ -55,7 +51,7 @@ $(document).ready(function() {
 	                        		  return "<span>N.A</span>";
 	                        	  }else{
 	                        		  return "<a href="+data+" target='_blank'>"+data+"</a>";
-	                              }
+	                        	  }
 	                          }
                           }
              ]
