@@ -1,32 +1,34 @@
     var dataSet = [
-		["","Kid Kare Nursery","Cluster E","04-441-7673","Nursery / Kids Care","","http://www.kidskingdom.ae/"],
-		["","Rainbow Valley Nursery","Cluster G","04-423-2540","Nursery / Kids Care","","http://www.rainbowvalleynursery.com/"],
-		["","Four 2 Four Nursery ","Cluster J1, Gold Crest Views","04-451-7450","Nursery / Kids Care","","http://www.four2fourcare.com/"],
-		["","Kids Kingdom","Cluster L","04-552-1585","Nursery / Kids Care","","http://www.kidskingdom.ae/"],
+		["","Kid Kare Nursery","Cluster E","04-441-7673","Nursery / Kids Care","","http://kidskingdom.ae/"],
+		["","Rainbow Valley Nursery","Cluster G","04-423-2540","Nursery / Kids Care","","http://rainbowvalleynursery.com/"],
+		["","Four 2 Four Nursery ","Cluster J1, Gold Crest Views","04-451-7450","Nursery / Kids Care","","http://four2fourcare.com/"],
+		["","Kids Kingdom","Cluster L","04-552-1585","Nursery / Kids Care","","http://kidskingdom.ae/"],
 		["","Baby Home Nursery","Cluster N","055-973-1097","Nursery / Kids Care","","http://babyhomenursery.com/"],
-		["","Tiny Town - Play Lounge","cluster Q","04-883-0175","Nursery / Kids Care","","http://www.tinytownnursery.ae/"],
-		["","Ladder Nursery","Cluster Q","056-728-3801","Nursery / Kids Care","","http://www.learningladdernursery.com/"],
-		["","Ladder Nursery","Cluster V","04-277-5720","Nursery / Kids Care","","http://www.learningladdernursery.com/"],
-		["","Dew Drop Nursery","Cluster X,1, Jumeirah Bay X1","04-422-9397","Nursery / Kids Care","","http://www.dewdropsnursery.com/"],
-		["","Dew Drop Nursery","Cluster Y, JBC-2","04-368-6399","Nursery / Kids Care","","http://www.dewdropsnursery.com/"],
-		["","Mosaic Nursery","Cluster F Fortune Tower","04-425-6670","Nursery / Kids Care","","www.mosaicnursery.com"],
-		["","Meta Mindz Learning Center","Red Diamond Center JLT","04-368-5604","Nursery / Kids Care","","http://www.metamindz.com/"],
-		["","Vernus Nursery Learning Center","Cluster U","055-437-4282","Nursery / Kids Care","","http://www.vernuselc.ae/"],
-		["","Kiddies Café","Cluster Y","04-360-8571","Nursery / Kids Care","","www.kiddiescafe.com"]
+		["","Tiny Town - Play Lounge","cluster Q","04-883-0175","Nursery / Kids Care","","http://tinytownnursery.ae/"],
+		["","Ladder Nursery","Cluster Q","056-728-3801","Nursery / Kids Care","","http://learningladdernursery.com/"],
+		["","Ladder Nursery","Cluster V","04-277-5720","Nursery / Kids Care","","http://learningladdernursery.com/"],
+		["","Dew Drop Nursery","Cluster X,1, Jumeirah Bay X1","04-422-9397","Nursery / Kids Care","","http://dewdropsnursery.com/"],
+		["","Dew Drop Nursery","Cluster Y, JBC-2","04-368-6399","Nursery / Kids Care","","http://dewdropsnursery.com/"],
+		["","Mosaic Nursery","Cluster F Fortune Tower","04-425-6670","Nursery / Kids Care","","http://mosaicnursery.com"],
+		["","Meta Mindz Learning Center","Red Diamond Center JLT","04-368-5604","Nursery / Kids Care","","http://metamindz.com/"],
+		["","Vernus Nursery Learning Center","Cluster U","055-437-4282","Nursery / Kids Care","","http://vernuselc.ae/"],
+		["","Kiddies Café","Cluster Y","04-360-8571","Nursery / Kids Care","","http://kiddiescafe.com"]
 		];
  
 $(document).ready(function() {
     $('#nurseryData').DataTable( {
         data: dataSet,
         columns: [
-            { title: "Logo" },
+            { title: "Logo",bSortable: false },
             { title: "Name" },
             { title: "Address" },
             { title: "Contact No." },
             { title: "Type" },
-            { title: "Map" },
+            { title: "Map",bSortable: false },
             { title: "Website" }
         ],
+          "order": [[ 1, "asc" ]],
+        
         "aoColumnDefs": [
                           {
                               "aTargets":[0],  

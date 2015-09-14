@@ -44,29 +44,24 @@
 <!-- 									<li><a href="index.php">Home</a></li> -->
 <!-- 								</ul> -->
 							</li>
-							<li class="drop"><a href="hotels.php" id="hotelsAnchor">Hotels</a>
-<!-- 								<ul class="dropdown"> -->
-<!-- 									<li><a href="projects-2col.html">Projects 2 Colums</a></li> -->
-<!-- 									<li><a href="projects-3col.html">Projects 3 Colums</a></li> -->
-<!-- 									<li><a href="hotels.php">Projects 4 Colums</a></li> -->
-<!-- 									<li><a href="single-project.html">Single Project</a></li> -->
-<!-- 								</ul> -->
+							<li class="drop"><a href="#" id="hotelsAnchor">Hotels/Restaurants</a>
+								<ul class="dropdown">
+									<li><a href="restaurants.php">Restaurants / Cafes</a></li>
+									<li><a href="hotels.php">Apartments</a></li>
+								</ul>
 							</li>
-							<li class="drop"><a href="#" id="wellnessAnchor">Wellness</a>
+							<li class="drop"><a href="#" id="wellnessAnchor">Wellness/Healthcare</a>
 								<ul class="dropdown">
 									<li><a href="fitness.php">Fitness Centres</a></li>
 									<li><a href="saloonspa.php">Saloon & Spas</a></li>
-								</ul>
-							</li>
-							<li class="drop"><a href="#" id="healthcareAnchor">Health Care</a>
-								<ul class="dropdown">
 									<li><a href="hospitals.php">Hospitals</a></li>
 									<li><a href="pharmacy.php">Pharmacies</a></li>
 								</ul>
 							</li>
+							
 							<li class="drop"><a href="#" id="supermarketsAnchor">Shops / Markets</a>
 							<ul class="dropdown">
-									<li><a href="banks.php">Super Markets</a></li>
+									<li><a href="supermarket.php">Super Markets</a></li>
 									<li><a href="digital.php">Digital / Stationery</a></li>
 							</ul>
 							
@@ -79,15 +74,13 @@
 									<li><a href="laundry.php">Laundry & Drycleaners</a></li>
 									<li><a href="nursery.php">Nursery / Kids Care</a></li>
 									<li><a href="pets.php">Pets Store</a></li>
+									<li><a href="realestateservices.php">Real Estate Services</a></li>
 									<li><a href="specialityservices.php">Speciality Services</a></li>
 									<li><a href="trainingcentres.php">Training Centres</a></li>
 									<li><a href="travel.php">Travel Services</a></li>
-									
-									
 								</ul>
 							</li>
-							<li class="drop"><a href="realestateservices.php" id="realEstateAnchor">Real Estate</a>
-							</li>
+							
 							<li class="drop"><a href="contact2.php" id="contactAnchor">Contact</a>
 								<ul class="dropdown">
 									<li><a href="contact2.php">Contact Us | Map</a></li>

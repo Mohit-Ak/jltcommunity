@@ -1,11 +1,11 @@
     var dataSet = [
 			["","My Tailor & Little  Things","Cluster B. Lake View Tower","04-451-9090","Tailors","","http://mytailor.ae/"],
-			["","Tailor Made ","Cluster I,  Platinum Tower","04-453-3324","Tailors","","http://www.tailormade.ae/"],
-			["","Musicians Supply JLT","Cluster B, Lake View, Shop No:20","04-423-1132","Musicians","","http://www.musicianssupplydubai.com/"],
-			["","Comic Central JLT","Cluster D","050-457-1546","Comedy Central","","http://www.comiccentraldubai.com/"],
-			["","Royal Fashion ","Cluster C, Al Mas Tower","04-443-8766","OtherServices","","http://www.royalfashion.biz/"],
-			["","Dew Drop Florist ","Cluster H, Concorde Tower, Shop:G01","04-422-7036","Florist","","www.uaeflowers.com"],
-			["","Rose Charms DMCC (Flower shop)","Cluster T, Lake Plaza, ShopNo: 18","04-458-8328","Florist","","http://www.rosecharmsjlt.com/"]
+			["","Tailor Made ","Cluster I,  Platinum Tower","04-453-3324","Tailors","","http://tailormade.ae/"],
+			["","Musicians Supply JLT","Cluster B, Lake View, Shop No:20","04-423-1132","Musicians","","http://musicianssupplydubai.com/"],
+			["","Comic Central JLT","Cluster D","050-457-1546","Comedy Central","","http://comiccentraldubai.com/"],
+			["","Royal Fashion ","Cluster C, Al Mas Tower","04-443-8766","OtherServices","","http://royalfashion.biz/"],
+			["","Dew Drop Florist ","Cluster H, Concorde Tower, Shop:G01","04-422-7036","Florist","","http://uaeflowers.com"],
+			["","Rose Charms DMCC (Flower shop)","Cluster T, Lake Plaza, ShopNo: 18","04-458-8328","Florist","","http://rosecharmsjlt.com/"]
 
 		];
  
@@ -13,14 +13,16 @@ $(document).ready(function() {
     $('#specialityservicesData').DataTable( {
         data: dataSet,
         columns: [
-            { title: "Logo" },
+            { title: "Logo",bSortable: false },
             { title: "Name" },
             { title: "Address" },
             { title: "Contact No." },
             { title: "Type" },
-            { title: "Map" },
+            { title: "Map",bSortable: false },
             { title: "Website" }
         ],
+          "order": [[ 1, "asc" ]],
+        
         "aoColumnDefs": [
                           {
                               "aTargets":[0],  

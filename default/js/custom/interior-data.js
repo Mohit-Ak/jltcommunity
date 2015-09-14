@@ -1,23 +1,25 @@
  var dataSet = [
-			["","Zen Interiors JLT","O2 tower","04-340-5050","Interior Designer","","http://www.zeninteriors.net/jumeirah-lake-towers-o2-tower-dubai-uae"],
-			["","Lake Side Interior","Cluster D2, Lake Terrace Tower","04-435-6067","Interior Designer","","http://www.tempodubai.com/contact-us"],
+			["","Zen Interiors JLT","O2 tower","04-340-5050","Interior Designer","","http://zeninteriors.net/jumeirah-lake-towers-o2-tower-dubai-uae"],
+			["","Lake Side Interior","Cluster D2, Lake Terrace Tower","04-435-6067","Interior Designer","","http://tempodubai.com/contact-us"],
 			["","Office Fitouts","","04-457-9339","Interior Designer","",""],
-			["","Palladio Interiors","Cluster, Indigo Icon Tower","04-427-9610","Interior Designer","","www.palladiointeriors.ae"],
-			["","Levant (Mark of Luxury)","Cluster I, Silver Tower, Suite 19D&E","04-447-7940","Interior Designer","","http://www.levant.com/"]
+			["","Palladio Interiors","Cluster, Indigo Icon Tower","04-427-9610","Interior Designer","","http://palladiointeriors.ae"],
+			["","Levant (Mark of Luxury)","Cluster I, Silver Tower, Suite 19D&E","04-447-7940","Interior Designer","","http://levant.com/"]
 		];
 
 $(document).ready(function() {
     $('#interiorData').DataTable( {
         data: dataSet,
         columns: [
-            { title: "Logo" },
+            { title: "Logo",bSortable: false },
             { title: "Name" },
             { title: "Address" },
             { title: "Contact No." },
             { title: "Type" },
-            { title: "Map" },
+            { title: "Map",bSortable: false },
             { title: "Website" }
         ],
+          "order": [[ 1, "asc" ]],
+        
         "aoColumnDefs": [
                           {
                               "aTargets":[0],  

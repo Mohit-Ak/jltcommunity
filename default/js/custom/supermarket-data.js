@@ -1,14 +1,14 @@
 var dataSet = [
 			
-		["","Carefour Market Red Diamond","Cluster C","800 7 32 32","SuperMarkets","","http://www.carrefourexpressuae.com/"],
-		["","Carefour Market","Cluster E","04-447-7699","SuperMarkets","",""],
+		["carrefour.png","Carefour Market Red Diamond","Cluster C","800 7 32 32","SuperMarkets","","http://carrefourexpressuae.com/"],
+		["carrefour.png","Carefour Market","Cluster E","04-447-7699","SuperMarkets","",""],
 		["","Park'N Shop","Cluster P","04-447-1424","SuperMarkets","",""],
-		["","Carefour","Cluster U","04-395-7435","SuperMarkets","",""],
-		["","Blue Planet (organic)","Cluster X","04-389-5209","SuperMarkets","","http://blueplanetgreenpeople.com/"],
+		["carrefour.png","Carefour","Cluster U","04-395-7435","SuperMarkets","",""],
+		["blueplanetgreenpeople.png","Blue Planet (organic)","Cluster X","04-389-5209","SuperMarkets","","http://blueplanetgreenpeople.com/"],
 		["","Spinneys'","Cluster X","04-395-1641","SuperMarkets","",""],
 		["","Judi Mini Mart","Cluster U, Al Seef 2","04-454-9525","SuperMarkets","",""],
-		["","Greenplanet (Green people Organic JLT)","Cluster Q","04-369-5209","SuperMarkets","","http://blueplanetgreenpeople.com/"],
-		["","Geant Easy Supermarket","","04-435-7353","SuperMarkets","","http://www.geant-uae.com/jlt-dubai"],
+		["blueplanetgreenpeople","Greenplanet (Green people Organic JLT)","Cluster Q","04-369-5209","SuperMarkets","","http://blueplanetgreenpeople.com/"],
+		["geantuae.png","Geant Easy Supermarket","","04-435-7353","SuperMarkets","","http://geant-uae.com/jlt-dubai"],
 		["","Zoom Market","Cluster A","04-431-3257","Mini Marts","",""],
 		["","Twins mini Mart","Cluster B","04-447-4213","Mini Marts","",""],
 		["","Green Bean Store JLT","Cluster B","04-277-6972","Mini Marts","",""],
@@ -32,20 +32,26 @@ $(document).ready(function() {
     $('#supermarketData').DataTable( {
         data: dataSet,
         columns: [
-            { title: "Logo" },
+            { title: "Logo",bSortable: false },
             { title: "Name" },
             { title: "Address" },
             { title: "Contact No." },
             { title: "Type" },
-            { title: "Map" },
+            { title: "Map",bSortable: false },
             { title: "Website" }
         ],
+          "order": [[ 1, "asc" ]],
+        
         "aoColumnDefs": [
                           {
                               "aTargets":[0],  
                               "mRender": function ( data, type, row ) {
                             	//  console.log("mrender Called -",data);
-                                  return "<img width=150 height=150 src='images/mockThumbnail.png'>";
+                            	  if(data==""){
+                            		  return "<img width=150 height=150 src='images/mockThumbnail.png'>";
+	                        	  }else{
+	                        		  return "<img width=150 height=150 src='images/jltfacility/supermarkets/"+data+"'>";
+	                              }
                               }
                           },
                           {
