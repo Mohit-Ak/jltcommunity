@@ -14,7 +14,7 @@
 									<div class="footer-widget">
 									<h2>Tags</h2>
 									<ul class="tag-list">
-									<li><a href="#">Jumeriah Lake Towers</a></li>
+									<li><a href="#">Jumeirah Lake Towers</a></li>
 									<li><a href="#">Building</a></li>
 									<li><a href="#">Community</a></li>
 									<li><a href="#">Infrastructure</a></li>
@@ -52,7 +52,7 @@
 							<h2>Info</h2>
 								<p class="first-par">You can contact or visit us during working time.</p>
 								<p><span>Tel: </span>+971 503 786 757</p>
-								<p><span>Email: </span> geetha9999@aol.com</p>
+								<p><span>Email: </span>jltcommunity.uae@gmail.com / geetha9999@aol.com</p>
 								<p><span>Working Hours: </span> 8:00 hrs - 17:00 hrs</p>
 								</div>
 								</div>

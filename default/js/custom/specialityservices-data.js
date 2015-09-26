@@ -1,11 +1,11 @@
     var dataSet = [
-			["","My Tailor & Little  Things","Cluster B. Lake View Tower","04-451-9090","Tailors","","http://mytailor.ae/"],
+			["mytailor.png","My Tailor & Little  Things","Cluster B. Lake View Tower","04-451-9090","Tailors","","http://mytailor.ae/"],
 			["","Tailor Made ","Cluster I,  Platinum Tower","04-453-3324","Tailors","","http://tailormade.ae/"],
-			["","Musicians Supply JLT","Cluster B, Lake View, Shop No:20","04-423-1132","Musicians","","http://musicianssupplydubai.com/"],
-			["","Comic Central JLT","Cluster D","050-457-1546","Comedy Central","","http://comiccentraldubai.com/"],
-			["","Royal Fashion ","Cluster C, Al Mas Tower","04-443-8766","OtherServices","","http://royalfashion.biz/"],
-			["","Dew Drop Florist ","Cluster H, Concorde Tower, Shop:G01","04-422-7036","Florist","","http://uaeflowers.com"],
-			["","Rose Charms DMCC (Flower shop)","Cluster T, Lake Plaza, ShopNo: 18","04-458-8328","Florist","","http://rosecharmsjlt.com/"]
+			["musicianssupplydubai.gif","Musicians Supply JLT","Cluster B, Lake View, Shop No:20","04-423-1132","Musicians","","http://musicianssupplydubai.com/"],
+			["comiccentraldubai.jpg","Comic Central JLT","Cluster D","050-457-1546","Comedy Central","","http://comiccentraldubai.com/"],
+			["royalfashion.gif","Royal Fashion ","Cluster C, Al Mas Tower","04-443-8766","OtherServices","","http://royalfashion.biz/"],
+			["uaeflowers.png","Dew Drop Florist ","Cluster H, Concorde Tower, Shop:G01","04-422-7036","Florist","","http://uaeflowers.com"],
+			["rosecharmsjlt.png","Rose Charms DMCC (Flower shop)","Cluster T, Lake Plaza, ShopNo: 18","04-458-8328","Florist","","http://rosecharmsjlt.com/"]
 
 		];
  
@@ -28,7 +28,11 @@ $(document).ready(function() {
                               "aTargets":[0],  
                               "mRender": function ( data, type, row ) {
                             	//  console.log("mrender Called -",data);
-                                  return "<img width=150 height=150 src='images/mockThumbnail.png'>";
+                            	  if(data==""){
+                            		  return "<img width=150 height=150 src='images/mockThumbnail.png'>";
+	                        	  }else{
+	                        		  return "<img width=150 height=150 src='images/jltfacility/ospeciality/"+data+"'>";
+	                              }
                               }
                           },
                           {

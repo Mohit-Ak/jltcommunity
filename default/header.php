@@ -8,17 +8,18 @@
 							<div class="col-md-6">
 								<p>
 									<span><i class="fa fa-phone"></i>+971 503 786 757</span>
-									<span><i class="fa fa-envelope-o"></i>geetha9999@aol.com</span>
+									<span><i class="fa fa-envelope-o"></i>jltcommunity.uae@gmail.com / geetha9999@aol.com 
+									</span>
 								</p>
 							</div>	
 							<div class="col-md-6">
 								<ul class="social-icons">
-									<li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
-									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
-									<li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-									<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
+									<li><a class="facebook" target="_blank" href="https://facebook.com/groups/jltcommunitydubai/"><i class="fa fa-facebook"></i></a></li>
+									<li><a class="twitter" target="_blank" href="https://twitter.com/JLT_Residents"><i class="fa fa-twitter"></i></a></li>
+<!-- 									<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li> -->
+<!-- 									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li> -->
+									<li><a class="linkedin" target="_blank" href="https://linkedin.com/pub/geetha-vasanthakumar/6b/b2b/5a5"><i class="fa fa-linkedin"></i></a></li>
+<!-- 									<li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li> -->
 								</ul>
 							</div>	
 						</div>
@@ -47,7 +48,7 @@
 							<li class="drop"><a href="#" id="hotelsAnchor">Hotels/Restaurants</a>
 								<ul class="dropdown">
 									<li><a href="restaurants.php">Restaurants / Cafes</a></li>
-									<li><a href="hotels.php">Apartments</a></li>
+									<li><a href="hotels.php">Hotels / Apartments</a></li>
 								</ul>
 							</li>
 							<li class="drop"><a href="#" id="wellnessAnchor">Wellness/Healthcare</a>
@@ -88,9 +89,9 @@
 								</ul>
 							</li>
 							<li class="search drop"><a href="#" class="open-search"><i class="fa fa-search"></i></a>
-								<form class="form-search">
-									<input type="search" placeholder="Search:"/>
-									<button type="submit">
+								<form class="form-search" id="form-search" method="GET" action="searchresults.php">
+									<input type="search" placeholder="Search:" value="" id="mainSearch"/>
+									<button type="button" id="mainSearchSubmit">
 										<i class="fa fa-search"></i>
 									</button>
 								</form>

@@ -44,7 +44,7 @@
 						<ul class="information-list">
 							<li><i class="fa fa-map-marker"></i><span>Jumeirah Lake Towers, Sheikh Zayed Road, Dubai, United Arab Emirates</span></li>
 							<li><i class="fa fa-phone"></i><span>+971 503 786 757</span></li>
-							<li><i class="fa fa-envelope-o"></i><a href="#">geetha9999@aol.com</a></li>
+							<li><i class="fa fa-envelope-o"></i><a href="#">jltcommunity.uae@gmail.com </br> geetha9999@aol.com</a></li>
 						</ul>						
 					</div>
 				</div>

@@ -96,7 +96,7 @@
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
 								data-linktoslide="next"
-								style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;"><a href='#' class='trans-btn'>Buy Property</a>
+								style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;"><a href='realestateservices.php' class='trans-btn'>Buy Property</a>
 							</div>
 
 							<!-- LAYER NR. 4 -->
@@ -179,7 +179,7 @@
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
 								data-linktoslide="next"
-								style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='#' class='trans-btn'>View Projects</a>
+								style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;"><a href='contact2.php' class='trans-btn'>Contact Us</a>
 							</div>
 						</li>
 						<!-- SLIDE  -->
@@ -232,7 +232,7 @@
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
 								data-linktoslide="next"
-								style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;"><a href='#' class='trans-btn'>load more</a>
+								style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;"><a href='contact1.php' class='trans-btn'>Google Street View</a>
 							</div>
 
 							<!-- LAYER NR. 4 -->
@@ -248,7 +248,7 @@
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
 								data-linktoslide="next"
-								style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"><a href='#' class='trans-btn2'>Projects</a>
+								style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"><a href='realestateservices.php' class='trans-btn2'>REAL ESTATE SERVICES</a>
 							</div>
 						</li>
 					</ul>
@@ -274,37 +274,38 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="offer-post">
-							<a href="services.html"><img src="upload/others/7.jpg" alt=""></a>
-							<h2><a href="services.html">Electrical</a></h2>
-							<p>A nice home deck provides a beautiful and relaxing spot for you and your family to enjoy the outdoors. Our professional handymen are ready to help you with all your deck repair and deck maintenance needs.</p>
-							<p>A nice home deck provides a beautiful and relaxing spot for you and your family to enjoy the outdoors. Our professional handymen are ready</p>
+							<a target="_blank" href="http://bonningtontower.com/"><img src="upload/others/bonnigton.png" alt=""></a>
+							<h2><a href="services.html">Bonnington Hotel</a></h2>
+							<p>Welcome to a world of luxury, style and exceptional service at The Bonnington Jumeirah Lakes Towers Dubai. </p>
+							<p>The 5 star beautifully designed property features 208 well-appointed rooms and suites (all non-smoking), 272 deluxe serviced hotel apartments, 5 restaurants and bars and 4 fully equipped conference suites.The hotel also boasts a unique Leisure Deck on the 11th floor complete with infinity pool, state of the art gym, pool side bar and restaurant, jacuzzi, steam room and sauna as well as a ladies hairdressing salon. 
+							</p>
 						</div>
 					</div>
 					<div class="col-md-3">
 						<div class="offer-post">
-							<a href="services.html"><img src="upload/others/1.jpg" alt=""></a>
-							<h2><a href="services.html">Home Maintenance</a></h2>
-							<p>We are professional tile installers who can install tile in many areas of your home.</p>
+							<a href="services.html"><img src="upload/others/Fitmyway.png" alt=""></a>
+							<h2><a href="services.html">Fit My Way</a></h2>
+							<p>FitMyway was established in 2009 with a simple vision “To become a preferred provider of a wide selection of fitness options for ladies in a friendly & exciting atmosphere”. We launched our first Aerobic studio in Cairo in June 2009. Followed by our first ladies only Gym in 2011 and now opening in Dubai – UAE at Jumeirah Lake Towers.</p>
 							<ul class="offer-list">
-								<li><i class="fa fa-cube"></i> Building House</li>
-								<li><i class="fa fa-cube"></i> Door Installation</li>
-								<li><i class="fa fa-cube"></i> Electrical</li>
-								<li><i class="fa fa-cube"></i> Flooring</li>
-								<li><i class="fa fa-cube"></i> Garages</li>
+								<li><i class="fa fa-cube"></i> Aerobic Classes</li>
+								<li><i class="fa fa-cube"></i> Dancing Classes</li>
+								<li><i class="fa fa-cube"></i> Massage & Wrapping</li>
+								<li><i class="fa fa-cube"></i> Gym Workouts</li>
+								<li><i class="fa fa-cube"></i> Yoga</li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-md-5">
 						<div class="offer-post">
-							<a href="services.html"><img src="upload/others/3.jpg" alt=""></a>
-							<h2><a href="services.html">Project Buildings</a></h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+							<a target="_blank" href="http://atomicproperties.org/"><img src="upload/others/Atomic.png" alt="Atomic Properties"></a>
+							<h2><a href="services.html">Atomic Properties</a></h2>
+							<p>We have become the leading Real Estate division for Jumeirah Lake Towers and International City and promote commercial as well as residential developments in International City and JLT. We have consistant focus in Jumeirah Lake Towers and Dubai Silicon Oasis.</p>
 							<ul class="offer-list second">
-								<li><i class="fa fa-cube"></i> Plannings</li>
-								<li><i class="fa fa-cube"></i> Fast Work</li>
-								<li><i class="fa fa-cube"></i> Precise</li>
+								<li><i class="fa fa-cube"></i> Buy</li>
+								<li><i class="fa fa-cube"></i> Rent</li>
+								<li><i class="fa fa-cube"></i> Property Management</li>
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>3304,33rd floor, 1 Lake Plaza (Next to Dubai Marina Metro Station),Jumeirah Lake Towers,Dubai,UAE </br>Toll Free: ​ 800 789</p>
 						</div>
 					</div>
 				</div>
@@ -318,8 +319,8 @@
 			<div class="container">
 				<div class="project-title">
 					<h2>Local Amenities</h2>
-					<p>At Jumeriah lake towers, one would find all the comfort and opulence at sniffing distance.</br>
-					Be it Restaurants, hospitals, supermarkets, saloons, banks or laundry services; you name it and Jumeriah Lake Towers has it!</p>
+					<p>At Jumeirah lake towers, one would find all the comfort and opulence at sniffing distance.</br>
+					Be it Restaurants, hospitals, supermarkets, saloons, banks or laundry services; you name it and Jumeirah Lake Towers has it!</p>
 				</div>
 				<ul class="filter">
 					<li><a class="active" href="#" data-filter="*">Show All</a></li>
@@ -333,15 +334,15 @@
 				</ul>
 				<div class="project-box iso-call">
 					<div class="project-post hotels">
-						<a href="hotels.php"><img src="upload/projects/hotels.png" alt="">
+						<a href="restaurants.php"><img src="upload/projects/hotels.png" alt="Restaurants">
 						<div class="hover-box">
-							<h2>Hotels</h2>
-							<span>Restaurants & Quickbites</span>
+							<h2>Restaurants</h2>
+							<span>Restaurants,Cafes & Quickbites</span>
 						</div>
 						</a>
 					</div>
 					<div class="project-post healthcare">
-						<a href="hospitals.php"><img src="upload/projects/hospital.png" alt="">
+						<a href="hospitals.php"><img src="upload/projects/hospital.png" alt="Hospitals">
 						<div class="hover-box">
 							<h2>Hospitals</h2>
 							<span>Hospitals, Clinics</span>
@@ -349,7 +350,7 @@
 						</a>
 					</div>
 					<div class="project-post healthcare">
-						<a href="pharmacy.php"><img src="upload/projects/pharmacy.jpg" alt="">
+						<a href="pharmacy.php"><img src="upload/projects/pharmacy.jpg" alt="Pharmacy">
 						<div class="hover-box">
 							<h2>Pharmacy</h2>
 							<span>Chemmist , druggist</span>
@@ -358,7 +359,7 @@
 					</div>
 					
 					<div class="project-post wellness">
-						<a href="fitness.php"><img src="upload/projects/fitness.png" alt="">
+						<a href="fitness.php"><img src="upload/projects/fitness.png" alt="Fitness Centers">
 						<div class="hover-box">
 							<h2>Fitness Centers</h2>
 							<span>Gyms & fitness centers</span>
@@ -366,7 +367,7 @@
 						</a>
 					</div>
 					<div class="project-post wellness">
-						<a href="saloonspa.php"><img src="upload/projects/spa.png" alt="">
+						<a href="saloonspa.php"><img src="upload/projects/spa.png" alt="Spas">
 						<div class="hover-box">
 							<h2>Spas</h2>
 							<span>Saloons, Spas</span>
@@ -374,7 +375,7 @@
 						</a>
 					</div>
 					<div class="project-post supermarkets">
-						<a href="supermarket.php"><img src="upload/projects/Market.png" alt="">
+						<a href="supermarket.php"><img src="upload/projects/Market.png" alt="Shopping">
 						<div class="hover-box">
 							<h2>Shopping</h2>
 							<span>Grocery Store, Market & Malls</span>
@@ -382,7 +383,7 @@
 						</a>
 					</div>
 					<div class="project-post supermarkets">
-						<a href="digital.php"><img src="upload/projects/digital.png" alt="">
+						<a href="digital.php"><img src="upload/projects/digital.png" alt="Digital Stores">
 						<div class="hover-box">
 							<h2>Digital Stores</h2>
 							<span>Photo studios, Photocopy, Stationery</span>
@@ -390,7 +391,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="banks.php"><img src="upload/projects/bank.png" alt="">
+						<a href="banks.php"><img src="upload/projects/bank.png" alt="Banks">
 						<div class="hover-box">
 							<h2>Banks</h2>
 							<span>Banks and Atms</span>
@@ -398,7 +399,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="businesses.php"><img src="upload/projects/business.png" alt="">
+						<a href="businesses.php"><img src="upload/projects/business.png" alt="Business and Firms">
 						<div class="hover-box">
 							<h2>Firms / Corporates / Business</h2>
 							<span>View Accountants, Consultants and different Businnes owners</span>
@@ -406,7 +407,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="banks.php"><img src="upload/projects/interior.png" alt="">
+						<a href="banks.php"><img src="upload/projects/interior.png" alt="Interior Designers">
 						<div class="hover-box">
 							<h2>Interior Designers</h2>
 							<span>Inter Home and Office Designer</span>
@@ -414,7 +415,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="laundry.php"><img src="upload/projects/laundry.png" alt="">
+						<a href="laundry.php"><img src="upload/projects/laundry.png" alt="Laundry">
 						<div class="hover-box">
 							<h2>Laundry</h2>
 							<span>laundry, drycleaners</span>
@@ -422,15 +423,15 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<img src="upload/projects/nursery.png" alt="">
-						<a href="nursery.php"><div class="hover-box">
+						<a href="nursery.php"><img src="upload/projects/nursery.png" alt="Nursery">
+						<div class="hover-box">
 							<h2>Nursery</h2>
 							<span>Nursery , Plantations</span>
 						</div>
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="pets.php"><img src="upload/projects/petscare.jpg" alt="">
+						<a href="pets.php"><img src="upload/projects/petscare.jpg" alt="Pet Care">
 						<div class="hover-box">
 							<h2>Pet Care</h2>
 							<span>Pet Care, Plantations</span>
@@ -438,7 +439,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="specialityservices.php"><img src="upload/projects/miscellaneous.png" alt="">
+						<a href="specialityservices.php"><img src="upload/projects/miscellaneous.png" alt="Speciality Services">
 						<div class="hover-box">
 							<h2>Speciality Services</h2>
 							<span>Dance, Karate, Learn Arabic</span>
@@ -446,7 +447,7 @@
 						</a>
 					</div>
 					<div class="project-post otherservices">
-						<a href="trainingcentres.php"><img src="upload/projects/learningcenter.png" alt="">
+						<a href="trainingcentres.php"><img src="upload/projects/learningcenter.png" alt="Training Centers">
 						<div class="hover-box">
 							<h2>Training Centers</h2>
 							<span>Dance, Karate, Learn Arabic</span>
@@ -455,7 +456,7 @@
 					</div>
 					
 					<div class="project-post realestate">
-						<a href="realestateservices.php"><img src="upload/projects/realestate.png" alt="">
+						<a href="realestateservices.php"><img src="upload/projects/realestate.png" alt="Real Estate Services">
 						<div class="hover-box">
 							<h2>Real Estate Services</h2>
 							<span>Locate real estate agents</span>
@@ -475,19 +476,17 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
-						<img src="upload/others/4.jpg" alt="">
+						<img src="upload/others/jumeirahlake.png" alt="">
 						<h2>Who we are</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua.</p>
-						<p>Ut enim ad minim veniam,	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>Jumeriah Lake Towers Community is an attempt to cherish the prodigious piece of infrastructure & celebrate humanity at its highest.</p>
+						<p>JLTCommunity would also like to present a comprehensive collection of different attractions present within the community.
+						JLT needs a genuine commute to bolster the group run neighborhood organizations in light of the fact that this is the main way our group will flourish and not transform into an apparition town.</p>
 					</div>
 					<div class="col-md-6">
-
+						<a class="twitter-timeline" href="https://twitter.com/jlt_community" data-widget-id="647864090388361216">Tweets by @jlt_community</a>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 						<!-- Nav tabs -->
-						<div class="tab-posts-box">
+						<!-- <div class="tab-posts-box">
 							<ul class="nav nav-tabs" id="myTab">
 								<li class="active">
 									<a href="#option1" data-toggle="tab">Building</a>
@@ -556,7 +555,7 @@
 									<p>Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat. Praesent dapibus, neque id cursus faucibus, tortor neque.</p>
 								</div>
 							</div>
-						</div>
+						</div> -->
 
 
 					</div>
@@ -579,17 +578,17 @@
 						<li>
 							<h2>Geeta Vasantakumar</h2>
 							<span>Entrepreneur</span>
-							<p>I am a proud member of Jumeriah Lake Community and would like to brag that the <br>place easily meets international standards in infrastrucutre and technology.<br>Would recommend JLT for commercial and non-commercial purposes</p>
+							<p>I am a proud member of Jumeirah Lake Community and would like to brag that the <br>place easily meets international standards in infrastrucutre and technology.<br>Would recommend JLT for commercial and non-commercial purposes</p>
 						</li>
 						<li>
 							<h2>Mohit A Khakharia</h2>
 							<span>Web & Mobile Developer</span>
-							<p>Jumeriah Lake towers is so alluring that I don't have enough words to describe its beauty and so I built this website to express my joy. </p>
+							<p>Jumeirah Lake towers is so alluring that I don't have enough words to describe its beauty and so I built this website to express my joy. </p>
 						</li>
 						<li>
-							<h2>Quan Ngyen</h2>
-							<span>Electricity Engineer</span>
-							<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. <br> Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a,<br> ultricies in, diam. Sed arcu. Cras consequat.</p>
+							<h2>Noor Ul Hassan Mirza</h2>
+							<span>Electrical Engineer</span>
+							<p>JLT has phenomenal engineering standards that can give a mystical appearance.<br>Although I am not a JLT resident but I have been to this place quite a few times.<br>Hope I would get a chance to be a part of JLT in the future.</p>
 						</li>
 					</ul>
 				</div>
@@ -598,64 +597,6 @@
 		</section>
 		<!-- End testimonial section -->
 
-		<!-- news-section 
-			================================================== -->
-		<section class="news-section">
-			<div class="container">
-				<div class="news-title">
-					<h2>Our - Latest News</h2>
-					<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				</div>
-				<div class="news-box">
-					<div class="row">
-						<div class="col-md-3 col-sm-6">
-							<div class="news-post">
-								<img src="upload/others/ser1.jpg" alt="">
-								<h2><a href="single-post.html">We construct buildings</a></h2>
-								<span>22 Jannuary 2015</span>
-								<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur.</p>
-								<a href="single-post.html">Continue Reading...</a>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="news-post">
-								<img src="upload/others/ser2.jpg" alt="">
-								<h2><a href="single-post.html">We work on area</a></h2>
-								<span>22 Jannuary 2015</span>
-								<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur.</p>
-								<a href="single-post.html">Continue Reading...</a>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="news-post">
-								<img src="upload/others/ser3.jpg" alt="">
-								<h2><a href="single-post.html">We build objects</a></h2>
-								<span>22 Jannuary 2015</span>
-								<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur.</p>
-								<a href="single-post.html">Continue Reading...</a>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="news-post">
-								<img src="upload/others/ser4.jpg" alt="">
-								<h2><a href="single-post.html">We are professional</a></h2>
-								<span>22 Jannuary 2015</span>
-								<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur.</p>
-								<a href="single-post.html">Continue Reading...</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</section>
-		<!-- End news section -->
 
 		<!-- clients-section 
 			================================================== -->
