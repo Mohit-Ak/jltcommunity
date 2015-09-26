@@ -15,7 +15,7 @@
 							<div class="col-md-6">
 								<ul class="social-icons">
 									<li><a class="facebook" target="_blank" href="https://facebook.com/groups/jltcommunitydubai/"><i class="fa fa-facebook"></i></a></li>
-									<li><a class="twitter" target="_blank" href="https://twitter.com/JLT_Residents"><i class="fa fa-twitter"></i></a></li>
+									<li><a class="twitter" target="_blank" href="https://twitter.com/jlt_community"><i class="fa fa-twitter"></i></a></li>
 <!-- 									<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li> -->
 <!-- 									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li> -->
 									<li><a class="linkedin" target="_blank" href="https://linkedin.com/pub/geetha-vasanthakumar/6b/b2b/5a5"><i class="fa fa-linkedin"></i></a></li>
