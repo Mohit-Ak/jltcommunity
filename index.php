@@ -19,7 +19,7 @@
  	<!-- Begin CommonJSIncludes Include -->
 			<?php
 	   			require('commonjstoinclude.php');
-			?>
+			?> 
 	<!-- End CommonJSIncludes Include -->
     <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
     <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
