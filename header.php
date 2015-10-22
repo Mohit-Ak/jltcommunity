@@ -101,4 +101,25 @@
 				</div><!-- /.container -->
 			</nav>
 		</header>
+		<!-- SEO Schema.org implementation -->
+	    <script type="application/ld+json">
+	    {
+	      "@context": "http://schema.org",
+	      "@type": "Organization",
+		  "name" : "Jumeirah Lake Towers",
+          "alternateName" : "JLTCommunity",
+	      "url": "http://jltcommunity.com/",
+	      "logo": "http://jltcommunity.com/images/logo.png",
+		  "sameAs" : [
+  			 "http://twitter.com/jlt_community",
+   			 "https://plus.google.com/115215752916746693007/about?hl=en"
+          ],
+		  "potentialAction": {
+          "@type": "SearchAction",
+          "target": "http://jltcommunity.com/searchresults.php?searchParam={search_term_string}",
+          "query-input": "required name=search_term_string"
+          }
+
+	    }
+		</script>
 		<!-- End Header -->

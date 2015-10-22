@@ -9,7 +9,8 @@
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
+	<meta name="description" content="A list of businesses present at Jumeirah Lakes Towers (JLT) , Sheikh Zayed Road, Dubai, United Arab Emirates (UAE)">
+    <meta name="keywords" content="Jumeirah Lakes Towers JLTCommunity JLTCommunity.com businesses firms companies Dubai UAE Building Community Society Infrastructure freezone development lakefront business live work play sponsor">
 		<!-- Begin commoncsstoinclude.php Include -->
 			<?php
    				require('commoncsstoinclude.php');

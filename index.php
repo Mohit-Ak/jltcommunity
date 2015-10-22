@@ -10,6 +10,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="Jumeirah Lakes Towers (JLT) is a 200-hectare fastest growing free zone development in Dubai,UAE. Offers commercial, residential and retail property. JLT community has 79 towers with around 25,000 residents and 10,000 people working.">
+	<meta name="keywords" content="Jumeirah Lakes Towers JLTCommunity JLTCommunity.com HomePage Index Dubai UAE Building Community Society Infrastructure freezone development lakefront business live work play sponsor">
+	<meta name="google-site-verification" content="IkE4lyez0J-9WErVb_HcaiFJZwlxQaeCkNqj8djp6-A" />
 		<!-- Begin commoncsstoinclude.php Include -->
 			<?php
    				require('commoncsstoinclude.php');
@@ -275,7 +277,7 @@
 					<div class="col-md-4">
 						<div class="offer-post">
 							<a target="_blank" href="http://bonningtontower.com/"><img src="upload/others/bonnigton.png" alt=""></a>
-							<h2><a href="services.html">Bonnington Hotel</a></h2>
+							<h2><a target="_blank" href="http://bonningtontower.com/">Bonnington Hotel</a></h2>
 							<p>Welcome to a world of luxury, style and exceptional service at The Bonnington Jumeirah Lakes Towers Dubai. </p>
 							<p>The 5 star beautifully designed property features 208 well-appointed rooms and suites (all non-smoking), 272 deluxe serviced hotel apartments, 5 restaurants and bars and 4 fully equipped conference suites.The hotel also boasts a unique Leisure Deck on the 11th floor complete with infinity pool, state of the art gym, pool side bar and restaurant, jacuzzi, steam room and sauna as well as a ladies hairdressing salon. 
 							</p>
@@ -283,8 +285,8 @@
 					</div>
 					<div class="col-md-3">
 						<div class="offer-post">
-							<a href="services.html"><img src="upload/others/Fitmyway.png" alt=""></a>
-							<h2><a href="services.html">Fit My Way</a></h2>
+							<a target="_blank" href="http://fitmyway.net"><img src="upload/others/Fitmyway.png" alt=""></a>
+							<h2><a target="_blank" href="http://fitmyway.net">Fit My Way</a></h2>
 							<p>FitMyway was established in 2009 with a simple vision “To become a preferred provider of a wide selection of fitness options for ladies in a friendly & exciting atmosphere”. We launched our first Aerobic studio in Cairo in June 2009. Followed by our first ladies only Gym in 2011 and now opening in Dubai – UAE at Jumeirah Lake Towers.</p>
 							<ul class="offer-list">
 								<li><i class="fa fa-cube"></i> Aerobic Classes</li>
@@ -298,7 +300,7 @@
 					<div class="col-md-5">
 						<div class="offer-post">
 							<a target="_blank" href="http://atomicproperties.org/"><img src="upload/others/Atomic.png" alt="Atomic Properties"></a>
-							<h2><a href="services.html">Atomic Properties</a></h2>
+							<h2><a target="_blank" href="http://atomicproperties.org/">Atomic Properties</a></h2>
 							<p>We have become the leading Real Estate division for Jumeirah Lake Towers and International City and promote commercial as well as residential developments in International City and JLT. We have consistant focus in Jumeirah Lake Towers and Dubai Silicon Oasis.</p>
 							<ul class="offer-list second">
 								<li><i class="fa fa-cube"></i> Buy</li>
