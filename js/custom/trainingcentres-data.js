@@ -8,7 +8,7 @@
 		["tctiudc.jpg","The Coffee Training Institute (Coffee Brewing Tech)","Dubai Arch center","04-451-6363","Training / Learning Centers","","http://tctiudc.com/"],
 		["scafa.png","Scafa (Culinary School)","Cluster I, Promenage Level,No:6","04-379-4044","Training / Learning Centers","","http://scafa.ae/"],
 		["goldenfalconkarate.gif","Golden Falcon Karate","Fortune Executive Tower","04-450-8538","Training / Learning Centers","","http://goldenfalconkarate.com"],
-		["berlitz.png","Berlitz language center","Indigo Icon 11th Floor","04-457-2263","Training / Learning Centers","","http://rainbowvalleynursery.com"],
+		["berlitz.png","Berlitz language center","Indigo Icon 11th Floor","04-457-2263","Training / Learning Centers","","http://berlitz.ae/"],
 		["","Golden Age Institute (Learn Arabic)","Swiss Tower","04-453-3046","Training / Learning Centers","","http://berlitz.ae/"],
 		["marjanbeauty.jpg","Marjan Training Centre (hair,nail, skincare)","Saba 1, 7th Floor","04-423-3700","Training / Learning Centers","","http://marjanbeauty.ae/"],
 		["","Benton ","JBC5, 29th Floor:2902","050-871-6205","Training / Learning Centers","","http://makeuptrainingcenter.com/"],

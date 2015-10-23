@@ -78,7 +78,7 @@
 									<li><a href="realestateservices.php">Real Estate Services</a></li>
 									<li><a href="specialityservices.php">Speciality Services</a></li>
 									<li><a href="trainingcentres.php">Training Centres</a></li>
-									<li><a href="travel.php">Travel Services</a></li>
+									<li><a href="travel.php">Travel & Rental</a></li>
 								</ul>
 							</li>
 							
@@ -101,7 +101,7 @@
 				</div><!-- /.container -->
 			</nav>
 		</header>
-		<!-- SEO Schema.org implementation -->
+		<!-- Begin SEO Schema.org implementation -->
 	    <script type="application/ld+json">
 	    {
 	      "@context": "http://schema.org",
@@ -122,4 +122,14 @@
 
 	    }
 		</script>
+		<!-- Begin SEO Schema.org implementation -->
+		<!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M96LTD"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-M96LTD');</script>
+		<!-- End Google Tag Manager -->
 		<!-- End Header -->

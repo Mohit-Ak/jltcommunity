@@ -315,7 +315,66 @@
 		</section>
 		<!-- End services-offer section -->
 
-		<!-- projects 
+		<!-- news-section 
+			================================================== -->
+		<section class="news-section">
+			<div class="container">
+				<div class="news-title">
+					<h2>JLT - Latest News</h2>
+					<p>Here you would find the news feeds of the latest happenings at Jumeirah Lake Towers</p>
+				</div>
+				<div class="news-box">
+					<div class="row">
+						<div class="col-md-3 col-sm-6">
+							<div class="news-post">
+<!-- 								<img src="upload/others/ser1.jpg" alt=""> -->
+								<h2><a href="#">DMCC Parking Garages Survey</a></h2>
+								<span>22 October 2015</span>
+								<p>Please be informed that there shortly will be a survey carried out on the DMCC Parking Garages areas.
+								In order to facilitate a successful survey, please be advised that all car washing on the Concourse and Promenade levels in all Clusters is suspended effective immediately until further notice while survey works are being undertaken on the Parking Garages areas.
+								DMCC apologises for the inconvenience this may cause to all the JLT residents.</p>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="news-post">
+								<h2><a href="#">"FESTIVAL OF LIGHTS - JLT"</a></h2>
+								<span>23 October 2015</span>
+								<p>JLT celebrates" Festival of Lights", an evening dedicated to festive Mood for Shopping, Food & Fun with music, dance and games.
+								Do join us as we celebrate the festive spirit. 
+								For queries and information , please feel free to call 0559932436 or 0552108415.</p>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="news-post">
+								<h2><a href="http://www.tinytown.ae/haloween/">Halloween Party at JLT</a></h2>
+								<span>29 October 2015</span>
+								<p>Halloween Party in Tiny Town JLTJoin Us If You Dare For A Spooktacular Celebration
+									When: Thursday 29th Oct 
+									Time: 5pm-7pm
+									2 hours of fun filled costume party that includes decorating your funny looking witch & creating your edible witch hat☺
+									To Win a 2 hours free access to Tiny Town Please book before 26th October.
+									T&Cs Apply 
+									To book click: http://www.tinytown.ae/haloween/
+								</p>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="news-post">
+								<h2><a href="http://www.dubai-fleamarket.com/">Dubai Flea Market at ZABEEL PARK</a></h2>
+								<span>07 November 2015</span>
+								<p>Location: ZABEEL PARK, Visitor entrance Gate 1, 2 or 3. Zabeel Park is easy to reach and close to the Metro Station. Be excited about our NEW FOOD STANDS!.
+									Time: 08:00 - 15:00
+									Entrance fee: Entry fee for visitors is AED 5 only and is paid at the Gates of Zabeel Park.. Exhibitors, please use the online booking form to reserve your spot.</p>
+<!-- 								<a href="single-post.html">Continue Reading...</a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</section>
+		<!-- End news section -->
+		<!-- Local Amenities 
 			================================================== -->
 		<section class="projects-section">
 			<div class="container jltFeatureGallery">

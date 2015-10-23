@@ -1,14 +1,14 @@
 var dataSet = [
-			["eaglerider.png","Eagle Riders (MotorCycleRental)","Cluster H - Concorde Tower","04-430-6400","OtherServices","","http://eaglerider.ae/"],
+			["eaglerider.png","Eagle Riders (MotorCycleRental)","Cluster H - Concorde Tower","04-430-6400","Travel & Rental Services","","http://eaglerider.ae/"],
 			["","Bikers ","Cluster H","052-622-1888","OtherServices","",""],
-			["dubailinktours.png","Dubai Link (travel & Tours)","Movenpick Hotel JLT","04-448 8111","OtherServices","","http://dubailinktours.com/"],
-			["","Exotic Tours & Travels","Cluster W","04-441-5671","OtherServices","","http://exotictoursandtravels.com"],
-			["southtravels.png","South Travel JLT","Cluster F, HDS Tower","04-447-3839","OtherServices","","http://southtravels.com/"],
-			["acme-travels.png","Acme Travel & Tours JLT","Cluster P, Armada Tower 2","04-379-4787","OtherServices","","http://acme-travels.com/"],
-			["aaarentacarjlt.jpg","AAA Rent A Car","Cluster D3, Lake Tower City","04-360-3337","OtherServices","","http://aaarentacarjlt.com/"],
-			["pcr.png","PCR-Premium Car Rentals","Cluster G, Jumeirah Business Center G","04-360-9991","OtherServices","","http://pcr.ae/"],
-			["","777 Rent A Car","Cluster Q","04-363-8582","OtherServices","",""],
-			["indigojlt.png","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","OtherServices","","http://indigojlt.com"]
+			["dubailinktours.png","Dubai Link (travel & Tours)","Movenpick Hotel JLT","04-448 8111","Travel & Rental Services","","http://dubailinktours.com/"],
+			["","Exotic Tours & Travels","Cluster W","04-441-5671","Travel & Rental Services","","http://exotictoursandtravels.com"],
+			["southtravels.png","South Travel JLT","Cluster F, HDS Tower","04-447-3839","Travel & Rental Services","","http://southtravels.com/"],
+			["acme-travels.png","Acme Travel & Tours JLT","Cluster P, Armada Tower 2","04-379-4787","Travel & Rental Services","","http://acme-travels.com/"],
+			["aaarentacarjlt.jpg","AAA Rent A Car","Cluster D3, Lake Tower City","04-360-3337","Travel & Rental Services","","http://aaarentacarjlt.com/"],
+			["pcr.png","PCR-Premium Car Rentals","Cluster G, Jumeirah Business Center G","04-360-9991","Travel & Rental Services","","http://pcr.ae/"],
+			["","777 Rent A Car","Cluster Q","04-363-8582","Travel & Rental Services","",""],
+			["indigojlt.png","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","Travel & Rental Services","","http://indigojlt.com"]
 		];
 
 

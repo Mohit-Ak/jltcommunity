@@ -29,5 +29,13 @@
 	.jltFeatureGallery{
 		width : 80%;
 	}
+	.contact-topsection{
+		padding-top: 165px;
+	}
 }
-
+@media (max-width: 767px){
+	
+	.contact-topsection{
+		padding-top: 80px;
+	}
+}

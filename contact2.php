@@ -28,14 +28,9 @@
 		?>
 		<!-- End Header Include -->
 
-		<!-- map 
-			================================================== -->
-		<div id="map2"></div>
-		<!-- map -->
-
 		<!-- contact section 
 			================================================== -->
-		<section class="contact-section">
+		<section class="contact-section contact-topsection">
 			<div class="container">
 				<div class="col-md-4">
 					<div class="contact-info">
@@ -69,7 +64,10 @@
 			</div>
 		</section>
 		<!-- End contact section -->
-
+		<!-- map 
+			================================================== -->
+		<div id="map2"></div>
+		<!-- map -->
 		<!-- Begin Footer Include -->
 			<?php
    				require('footer.php');
