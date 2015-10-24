@@ -15,6 +15,7 @@
 	font-size: 16px;
 	font-weight: 500;
 }
+
 @media (min-width: 768px){
 	.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
 	    margin-left: -49px;
@@ -22,15 +23,18 @@
 	.search-page-section {
 	  padding: 170px 0 0 0!important;
 	}
-	.jltSponsorContainer{
+	/* .jltSponsorContainer{
 		width : 90%;
 		margin: auto;
-	}
+	} */
 	.jltFeatureGallery{
 		width : 80%;
 	}
 	.contact-topsection{
 		padding-top: 165px;
+	}
+	.services-offer-section .offer-post > a img{
+		width: 70%;
 	}
 }
 @media (max-width: 767px){

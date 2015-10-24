@@ -217,7 +217,7 @@
 								data-splitout="none"
 								data-elementdelay="0.05"
 								data-endelementdelay="0.1"
-								style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">JLT’s dynamic lakefront community spread over 200 hectares encompasses </br>60 attractive residential and commercial towers alongside<br> hotels, leisure and retail outlets and is currently home to over 25,000 residents </br>and over 10,000 people working here.
+								style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">JLT’s dynamic lakefront community spread over 200 hectares encompasses </br>66 attractive residential and commercial towers alongside<br> hotels, leisure and retail outlets and is currently home to about 85,000 residents </br>and close to 10,000 registered companies.
 								
 							</div>
 
