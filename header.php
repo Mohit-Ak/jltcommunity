@@ -14,7 +14,7 @@
 							</div>	
 							<div class="col-md-6">
 								<ul class="social-icons">
-									<li><a class="facebook" target="_blank" href="https://facebook.com/groups/jltcommunitydubai/"><i class="fa fa-facebook"></i></a></li>
+									<li><a class="facebook" target="_blank" href="https://www.facebook.com/TheJLTCommunity"><i class="fa fa-facebook"></i></a></li>
 									<li><a class="twitter" target="_blank" href="https://twitter.com/jlt_community"><i class="fa fa-twitter"></i></a></li>
 <!-- 									<li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li> -->
 <!-- 									<li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li> -->

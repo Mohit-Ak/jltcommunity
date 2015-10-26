@@ -5,7 +5,7 @@
 		["","Sparkle Line Laundry","Cluster F2, HDS Tower","04-368-8259","Laundry & Drycleaners","",""],
 		["","Al Mosky Laundry","Cluster P, Almada Tower1","04-344-0253","Laundry & Drycleaners","",""],
 		["","Lakes Laundry","Cluster Q","04-454-2505","Laundry & Drycleaners","",""],
-		["evershine-logo.png","Evershine Drycleaners","Cluster R","04-431-7191","Laundry & Drycleaners","","http://evershinelaundry.net"],
+		["evershine-logo.png","Evershine Drycleaners","Cluster R","04-431-7191","Laundry & Drycleaners","","http://www.evershinedrycleaners.com/"],
 		["","Suds R Us Laundry","Cluster T","04-363-5111","Laundry & Drycleaners","",""],
 		["","April Laundry","Cluster T","04-435-6239","Laundry & Drycleaners","",""],
 		["","AMS Dry cleaners & Laundry","Cluster U, Al Seef Tower","055-963-3786","Laundry & Drycleaners","",""],
