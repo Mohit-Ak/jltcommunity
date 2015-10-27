@@ -360,11 +360,11 @@
 						</div>
 						<div class="col-md-3 col-sm-6">
 							<div class="news-post">
-								<h2><a href="http://www.dubai-fleamarket.com/">Dubai Flea Market at ZABEEL PARK</a></h2>
-								<span>07 November 2015</span>
-								<p>Location: ZABEEL PARK, Visitor entrance Gate 1, 2 or 3. Zabeel Park is easy to reach and close to the Metro Station. Be excited about our NEW FOOD STANDS!.
-									Time: 08:00 - 15:00
-									Entrance fee: Entry fee for visitors is AED 5 only and is paid at the Gates of Zabeel Park.. Exhibitors, please use the online booking form to reserve your spot.</p>
+							    <h2><a href="http://premieronline.com/">JLT Pink Walkathon.</h2>
+								<span>30 October 2015</span>
+							    <img src="upload/newsfeeds/fidelity-walkathon.jpg" alt="">
+								</a>
+								
 <!-- 								<a href="single-post.html">Continue Reading...</a> -->
 							</div>
 						</div>
