@@ -13,7 +13,6 @@ var dataSet = [
 ["icequeen.png","Ice Queen (Wellness Spa Center)","Cluster Q1, Saba 3","04-430-7954","Spas","","http://icequeen.ae/"],
 ["","Naturopathy Touch","Cluster D & Cluster X2","04-452.6969","Spas","","http://nptouch.com; "],
 ["","The White Room (Beauty & Spa)","Cluster U; Shop No 2","04-422-8997","Spas","","http://whiteroomdubai.com; https://facebook.com/whiteroomdubai"],
-["","Finesse (him & her - JLT)","Cluster S3","04-447-1815","Spas","","http://finessdubai.com"],
 ["marjanbeauty.png","Marjan (hair,nail, skincare)","Saba 1, ShopNo:6","04-423-3700","Beauty Salon","","http://marjanbeauty.ae/"],
 ["","Ladies Salon","","04-450-8607","Beauty Salon","",""],
 ["agbeautycenter.png","Avant Garde Beauty Centre","Cluster C","04-450-8608","Beauty Salon","","http://agbeautycenter.com"],
@@ -72,7 +71,7 @@ var dataSet = [
 ["essabeauty.png","Essa beauty","","04-374-4288","Hair Salon","","http://essa.beauty.com"],
 ["","Amro Style Salon","UB shop No:6","050-472-5400","Hair Salon","",""],
 ["","Mike Beauty Salon","Armada Tower 1, HC-34th","04-395-8888","Hair Salon","",""],
-["finessedubai.png","Finesse (him & her - JLT)","Cluster S3","04-447-1815","Fitness Center","","http://finessedubai.com/"],
+["epicbeauty.png","EPIC BEAUTY DMCC","Green Lakes Towers S3, Shop S20, Ground Level","+971 44471815 / +971 507744988","Beauty Salon","https://goo.gl/maps/Y5w8uv31icr","http://epicbeautydubai.com"],
 ["armadaspa.png","Armada Spa","Armada Tower 1, HealthClub Floor","04-395-8888","Hair Salon","","http://armadaspa.com"]
 
 ];
