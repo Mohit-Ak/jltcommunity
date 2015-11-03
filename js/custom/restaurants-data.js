@@ -153,6 +153,8 @@
 		["","Baguette Burger","Cluster Q","04-456-4984","Speciality Restaurants","",""],
 		["shiekandshake.png","Sheikh & Shake","Cluster R","04-452-2273","Speciality Restaurants","","http://sheikhandshake.com/"],
 		["","Q meal","Cluster R","04-451-0522","Speciality Restaurants","",""],
+		["shawermania.jpg","Shawermania DMCC","Shop P02, Dubai Gate 1, Cluster Q, Jumeirah Lakes Towers"," 04-454-3024","Speciality Restaurants","https://goo.gl/maps/6hXrUSjshmo","http://shawermania.ae/"],
+		
 		
 		
 		["","Sarang Bakery JLT","Cluster C","04-552-1284","Bakery","",""],

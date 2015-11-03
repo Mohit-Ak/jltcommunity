@@ -19,7 +19,9 @@ var dataSet = [
 			["","New Phones Land JLT","Cluster B, Shop#15","04-434-1477","Digital Services","",""],
 			["","Pro Service - Smart Plus (Typing Service)","Cluster J","04-431-2715","Typing Services","",""],
 			["","Taqat Tech","Cluster J","04-553-1460","OtherServices","","http://hridubai.com/"],
-			["","City Stationery JLT","Cluster J","04-423-2087","Stationery Shop","",""]
+			["","City Stationery JLT","Cluster J","04-423-2087","Stationery Shop","",""],
+			["techfield.png","Techfield DMCC","Jumeirah Lakes Towers, Dubai","04-427-2483 / 0502548667 ","Digital Services","https://goo.gl/maps/im8q9frDXdT2",""],
+			
 		];
 
 $(document).ready(function() {
