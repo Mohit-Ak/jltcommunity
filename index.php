@@ -337,15 +337,6 @@
 						</div>
 						<div class="col-md-3 col-sm-6">
 							<div class="news-post">
-								<h2><a href="#">"FESTIVAL OF LIGHTS - JLT"</a></h2>
-								<span>23 October 2015</span>
-								<p>JLT celebrates" Festival of Lights", an evening dedicated to festive Mood for Shopping, Food & Fun with music, dance and games.
-								Do join us as we celebrate the festive spirit. 
-								For queries and information , please feel free to call 0559932436 or 0552108415.</p>
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="news-post">
 								<h2><a href="http://www.tinytown.ae/haloween/">Halloween Party at JLT</a></h2>
 								<span>29 October 2015</span>
 								<p>Halloween Party in Tiny Town JLTJoin Us If You Dare For A Spooktacular Celebration
@@ -360,7 +351,7 @@
 						</div>
 						<div class="col-md-3 col-sm-6">
 							<div class="news-post">
-							    <h2><a href="http://premieronline.com/">JLT Pink Walkathon.</h2>
+							    <h2><a href="http://premieronline.com/" target="_blank">JLT Pink Walkathon.</h2>
 								<span>30 October 2015</span>
 							    <img src="upload/newsfeeds/fidelity-walkathon.jpg" alt="">
 								</a>
@@ -368,6 +359,15 @@
 <!-- 								<a href="single-post.html">Continue Reading...</a> -->
 							</div>
 						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="news-post">
+							    <h2><a href="https://www.facebook.com/jltoutdoorcinema/" target="_blank">Free JLT Outdoor Cinemas</h2>
+								<span>6 November - 19 December 2015</span>
+							    <img src="upload/newsfeeds/JLT-OutDoorCinemas.jpg" alt="">
+								</a>
+							</div>
+						</div>
+						
 					</div>
 				</div>
 
