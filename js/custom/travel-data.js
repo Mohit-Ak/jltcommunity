@@ -8,8 +8,10 @@ var dataSet = [
 			["aaarentacarjlt.jpg","AAA Rent A Car","Cluster D3, Lake Tower City","04-360-3337","Travel & Rental Services","","http://aaarentacarjlt.com/"],
 			["pcr.png","PCR-Premium Car Rentals","Cluster G, Jumeirah Business Center G","04-360-9991","Travel & Rental Services","","http://pcr.ae/"],
 			["","777 Rent A Car","Cluster Q","04-363-8582","Travel & Rental Services","",""],
-			["indigojlt.png","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","Travel & Rental Services","","http://indigojlt.com"]
-		];
+			["indigojlt.png","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","Travel & Rental Services","","http://indigojlt.com"],
+			["utravel.png","U Travel","Cluster U, Al Seef 2","04-447-4047","Travel & Rental Services","","http://utravel.ae"]
+			
+			];
 
 
 $(document).ready(function() {

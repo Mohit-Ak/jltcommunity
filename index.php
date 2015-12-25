@@ -351,20 +351,23 @@
 						</div>
 						<div class="col-md-3 col-sm-6">
 							<div class="news-post">
-							    <h2><a href="http://premieronline.com/" target="_blank">JLT Pink Walkathon.</h2>
-								<span>30 October 2015</span>
-							    <img src="upload/newsfeeds/fidelity-walkathon.jpg" alt="">
-								</a>
-								
-<!-- 								<a href="single-post.html">Continue Reading...</a> -->
-							</div>
-						</div>
-						<div class="col-md-3 col-sm-6">
-							<div class="news-post">
 							    <h2><a href="https://www.facebook.com/jltoutdoorcinema/" target="_blank">Free JLT Outdoor Cinemas</h2>
 								<span>6 November - 19 December 2015</span>
 							    <img src="upload/newsfeeds/JLT-OutDoorCinemas.jpg" alt="">
 								</a>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-6">
+							<div class="news-post">
+							    <h2><a href="upload/newsfeeds/jltcommunityfitness.png" target="_blank">JLT COMMUNITY FITNESS</h2>
+								<span>8 January 2016</span>
+							    <img src="upload/newsfeeds/jltcommunityfitness.png" alt="">
+								</a>
+								<p>
+								    Complimentary group training classes especially for the
+									JLT Community. Click on the Image to know more...
+								</p>
+<!-- 								<a href="single-post.html">Continue Reading...</a> -->
 							</div>
 						</div>
 						

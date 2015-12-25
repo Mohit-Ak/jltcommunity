@@ -6,7 +6,8 @@
 			["royalfashion.gif","Royal Fashion ","Cluster C, Al Mas Tower","04-443-8766","OtherServices","","http://royalfashion.biz/"],
 			["uaeflowers.png","Dew Drop Florist ","Cluster H, Concorde Tower, Shop:G01","04-422-7036","Florist","","http://uaeflowers.com"],
 			["rosecharmsjlt.png","Rose Charms DMCC (Flower shop)","Cluster T, Lake Plaza, ShopNo: 18","04-458-8328","Florist","","http://rosecharmsjlt.com/"],
-			["MoveSouq.png","MoveSouq.com","Swiss Tower, Cluster Y, JLT","+971-44229639","Home Service Provider","https://goo.gl/maps/RjeU5tuUkkN2","https://movesouq.com"]
+			["MoveSouq.png","MoveSouq.com","Swiss Tower, Cluster Y, JLT","+971-44229639","Home Service Provider","https://goo.gl/maps/RjeU5tuUkkN2","https://movesouq.com"],
+			["","No Limit Fashion ","Cluster X","+971 056-558-4728","Fashion Services","","http://localsearch.ae/en/profile/NoLimit-&-Fashion-JLT/772645"]
 
 		];
  

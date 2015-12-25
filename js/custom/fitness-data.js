@@ -8,7 +8,10 @@ var dataSet = [
 	["","Cool Look Aesthetic & Fitness Ceter","Cluster E, Lake View No:7-11","04-368-8736","Fitness Center","",""],
 	["jeaniqueyogaandpilates.png","Jeanique Yoga And Pilates JLT","Cluster I, Platinum Tower, Shop:510","055-788-5977","Fitness Center","","http://jeaniqueyogaandpilates.com/"],
 	["","Soul Fitness Club","Cluster A","04-438-0000","Fitness Center","",""],
-	["lifespark.png","Lifespark Reebok","Cluster H, Concorde Tower, Shop:G10","04-450-8234","Fitness Center","","http://reebokcrossfitlifespark.com/"]  
+	["lifespark.png","Lifespark Reebok","Cluster H, Concorde Tower, Shop:G10","04-450-8234","Fitness Center","","http://reebokcrossfitlifespark.com/"],
+	["cardiolates.png","Cardiolates","Cluster X2, ShopNo:4202","056-798-4655","Fitness Center","","http://cardiolatesmiddleeast.com"],
+	["yogaashram.png","Yoga Ashram","Cluster X3, Suite 1504","04-360-9028/056-281-5554","Fitness Center","","http://yogaashram.com"]
+	
 ];
 
 

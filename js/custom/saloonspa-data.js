@@ -15,7 +15,7 @@ var dataSet = [
 ["","The White Room (Beauty & Spa)","Cluster U; Shop No 2","04-422-8997","Spa","","http://whiteroomdubai.com; https://facebook.com/whiteroomdubai"],
 ["marjanbeauty.png","Marjan (hair,nail, skincare)","Saba 1, ShopNo:6","04-423-3700","Beauty Salon","","http://marjanbeauty.ae/"],
 ["","Ladies Salon","","04-450-8607","Beauty Salon","",""],
-["agbeautycenter.png","Avant Garde Beauty Centre","Cluster C","04-450-8608","Beauty Salon","","http://agbeautycenter.com"],
+["agbeautycenter.png","Avant Garden Beauty Centre","Cluster C","04-450-8608","Beauty Salon","","http://agbeautycentre.com/spa-salon-dubai/"],
 ["","Diana Beauty Castle ","Cluster C","04-368-6635","Beauty Salon","",""],
 ["","Beauty Story Salon","Cluster A","04-362-1412","Beauty Salon","",""],
 ["","Amore Hair & Beauty Salon","Cluster B","04-435-6474","Beauty Salon","",""],
@@ -56,7 +56,7 @@ var dataSet = [
 ["","The White Room","Cluster U","04-422-8997","Beauty Salon","",""],
 ["","Lemichelsalon","Cluster J, Bonnington Tower 11th flr","04-352-5431","Beauty Salon","","http://lemichelsalon.com/"],
 ["mazkara.png","Crystal Beauty Lounge JLT (Spa,Salon)","Red Diamond JLT","04-368-8664","Beauty Salon","","http://mazkara.com/dubai/crystal-beauty-lounge-jumeirah-lakes-towers-jlt"],
-["personabeautysalon.png","Persona (Ladies & Gents Salon)","Cluster O, Madina Tower","04-422-8205","Beauty Salon","","http://personabeautysalon.com/"],
+["personabeautysalon.png","Persona (Ladies & Gents Salon)","Cluster O, Madina Tower","04-422-8205","Beauty Salon","","https://facebook.com/Persona-Ladies-Gents-Beauty-Salon-JLT-154476004629244/"],
 ["juansalon.png","Juan Salon ","Indigo Tower, 3rd Floor","04-438-9570","Beauty Salon","","http://juansalon.com"],
 ["","Mankind (spa JLT)","Almas Tower","04-429-8668","Beauty Salon","",""],
 ["sensessalonjlt.png","Senses Salon JLT","Cluster W,Tiffany Tower","04-457-2290","Beauty Salon","","http://sensessalonjlt.com"],
@@ -71,7 +71,7 @@ var dataSet = [
 ["essabeauty.png","Essa beauty","","04-374-4288","Hair Salon","","http://essa.beauty.com"],
 ["","Amro Style Salon","UB shop No:6","050-472-5400","Hair Salon","",""],
 ["","Mike Beauty Salon","Armada Tower 1, HC-34th","04-395-8888","Hair Salon","",""],
-["epicbeauty.png","EPIC BEAUTY DMCC","Green Lakes Towers S3, Shop S20, Ground Level","+971 44471815 / +971 507744988","Beauty Salon & Spa","https://goo.gl/maps/Y5w8uv31icr","http://epicbeautydubai.com"],
+["epicbeauty.png","EPIC BEAUTY DMCC","Green Lakes Towers S3, Shop S20, Ground Level","+971 044471815 / +971 507744988","Beauty Salon & Spa","https://goo.gl/maps/Y5w8uv31icr","http://epicbeautydubai.com"],
 ["armadaspa.png","Armada Spa","Armada Tower 1, HealthClub Floor","04-395-8888","Hair Salon","","http://armadaspa.com"]
 
 ];

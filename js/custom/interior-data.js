@@ -3,7 +3,8 @@
 			["","Lake Side Interior","Cluster D2, Lake Terrace Tower","04-435-6067","Interior Designer","",""],
 			["","Office Fitouts","","04-457-9339","Interior Designer","",""],
 			["pallado.png","Palladio Interiors","Cluster, Indigo Icon Tower","04-427-9610","Interior Designer","","http://palladiointeriors.ae"],
-			["levant.png","Levant (Mark of Luxury)","Cluster I, Silver Tower, Suite 19D&E","04-447-7940","Interior Designer","","http://levant.com/"]
+			["levant.png","Levant (Mark of Luxury)","Cluster I, Silver Tower, Suite 19D&E","04-447-7940","Interior Designer","","http://levant.com/"],
+			["palldiointeriors.png","Palldiointeriors","Jumeirah Lakes Towers Jewellery & Gemplex 3","+971 55-754-1324","Interior Designer","","http://palladiointeriors.ae/"]
 		];
 
 $(document).ready(function() {

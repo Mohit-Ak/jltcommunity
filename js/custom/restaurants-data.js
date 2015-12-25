@@ -17,10 +17,10 @@
 		["","Take A Break (Café)","Cluster F","04-434-1339","Café & Desseert","",""],
 		["","Café Le Flair","Cluster G, JBC 1","04-427-8629","Café & Desseert","",""],
 		["marcopoloespresso.png","Marco Polo expresso","Cluster G, JBC1","04-443-6790","Café & Desseert","","http://marcopoloespresso.com/"],
-		["HOMELiwaBanner1.jpg","Liwa Café","Cluster G, Arch Tower","04-450-8800","Café & Desseert","","http://liwa-cafe.com/"],
+		["HOMELiwaBanner1.jpg","Liwa Café","Cluster G, Arch Tower","04-450-8800","Café & Desseert","","https://facebook.com/Liwacafe/"],
 		["rollingpinbakeryanddeli.png","Rolin Pin Bakery & Café","Cluster H, Concorde Tower","04-448-3335","Café & Desseert","","http://rollingpinbakeryanddeli.com/"],
 		["caffetrieste.png","Café Triesto","Cluster I, Platinum Tower","04-368-9455, 056-348-5526","Café & Desseert","","http://caffetrieste.ae/"],
-		["","Own café","Cluster I","04-441-3519","Café & Desseert","","http://own-cafe.quandoo.ae"],
+		["","Own café","Cluster I","04-441-3519","Café & Desseert","","https://zomato.com/dubai/own-cafe-jumeirah-lake-towers"],
 		["","Caffé Divino - Delice Ventures JLT","Cluster O, O2","04-363-8411","Café & Desseert","",""],
 		["","Mug Hug","Cluster P, Armada1","04-323-2610","Café & Desseert","",""],
 		["","Café Funkie Town","Cluster Q, Saba 3","04-368-9697/27","Café & Desseert","",""],
@@ -32,7 +32,7 @@
 		["fraiche.png","Fraiche Café & Bistro ","Cluster Y, Swiss Tower","04-369-7821","Café & Desseert","","http://fraiche.ae/"],
 		["","Estalian Coffee Break","Cluster Y, ","04-276-6184","Café & Desseert","",""],
 		["nofara.jpg","Nofara Café","Cluster Y, Swiss Tower","04-432-2023","Café & Desseert","","http://nofaracafe.com/"],
-		["","Baldwin Café","Cluster V, Gold Cluster View","04-447-7024","Café & Desseert","","jltbaldwin.com"],
+		["","Baldwin Café","Cluster V, Gold Cluster View","04-447-7024","Café & Desseert","","https://www.zomato.com/dubai/baldwin-cafe-jumeirah-lake-towers/menu"],
 		["","G's café (Free WiFi)","Cluster F","04-391-8841","Café & Desseert","","http://gforme.ae/"],
 		["","Caffiology","Cluster G, jbc 1","056-934-9866","Café & Desseert","",""],
 		["fusion.png","Fusion Café","Cluster O, O2 tower","04-554-8159","Café & Desseert","","http://fusion.ae"],
@@ -75,6 +75,8 @@
 		["","Pizzario","Cluster Q","04-453-9243","Pizza Place","",""],
 		["","Flour Pizza","Cluster X","04-453-9991","Pizza Place","",""],
 		["","Mambo Pizza","Cluster W","04-450-9876","Pizza Place","",""],
+		["","We Love Pizza (Italian)","Cluster U, Al Seef Tower 2, UnitG04","04-457-7907/7908","Pizza Place","","https://www.facebook.com/pages/We-Love-Pizza-JLT/384835368392584?__mref=message_bubble"],
+		
 		
 		["","Fit Food Kitchen","Cluster J2","04-429-8844","Health simplified","",""],
 		["rightbite.png","The Right Bite","Cluster J, J2","04-550-9264","Health simplified","","http://right-bite.com/"],
@@ -154,6 +156,7 @@
 		["shiekandshake.png","Sheikh & Shake","Cluster R","04-452-2273","Speciality Restaurants","","http://sheikhandshake.com/"],
 		["","Q meal","Cluster R","04-451-0522","Speciality Restaurants","",""],
 		["shawermania.jpg","Shawermania DMCC","Shop P02, Dubai Gate 1, Cluster Q, Jumeirah Lakes Towers"," 04-454-3024","Speciality Restaurants","https://goo.gl/maps/6hXrUSjshmo","http://shawermania.ae/"],
+		["etfetter.png","E & T Feteer","Cluster J,J2 Tower Unit 16","04-456-0806","Speciality Restaurants","","http://facebook.com/eatfeteer"],
 		
 		
 		

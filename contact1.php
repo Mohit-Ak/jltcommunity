@@ -44,7 +44,8 @@
 						<p>You can contact or visit us in our office from Monday to Friday from 8:00 - 17:00</p>
 						<ul class="information-list">
 							<li><i class="fa fa-map-marker"></i><span>Jumeirah Lake Towers, Sheikh Zayed Road, Dubai, United Arab Emirates</span></li>
-<!-- 							<li><i class="fa fa-phone"></i><span></span></li> -->
+							<li><i class="fa fa-user"></i><span>Fahad Abdul Latif Al Hammadi</span></li>
+							<li><i class="fa fa-phone"></i><span>050-459-7565</span></li>
 							<li><i class="fa fa-envelope-o"></i><a href="#">jltcommunity.uae@gmail.com</a></li>
 							<li><i class="fa fa-envelope-o"></i><a href="#">admin@jltcommunity.com</a></li>
 						</ul>						

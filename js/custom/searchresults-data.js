@@ -415,8 +415,15 @@
 ["aaarentacarjlt.jpg","AAA Rent A Car","Cluster D3, Lake Tower City","04-360-3337","OtherServices","","http://aaarentacarjlt.com/"],
 ["pcr.png","PCR-Premium Car Rentals","Cluster G, Jumeirah Business Center G","04-360-9991","OtherServices","","http://pcr.ae/"],
 ["","777 Rent A Car","Cluster Q","04-363-8582","OtherServices","",""],
-["indigojlt.png","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","OtherServices","","http://indigojlt.com"]
+["indigojlt.png","Indigo Rent A Car","Cluster T","04-43506504/056-744-8008","OtherServices","","http://indigojlt.com"],
 
+["stepbystep.png","Step By Step","Clust T, One Lake Plaza","04-420-1743","Digital Services","","http://stepbystepjlt.com"],
+["fixit.png","Fixit Express","Almas -Tower, Shop No:01-26","04-427-6606","Digital Services","","http://fixituae.com"],
+["cardiolates.png","Cardiolates","Cluster X2, ShopNo:4202","056-798-4655","Fitness Center","","http://cardiolatesmiddleeast.com"],
+["yogaashram.png","Yoga Ashram","Cluster X3, Suite 1504","04-360-9028/056-281-5554","Fitness Center","","http://yogaashram.com"],
+["palldiointeriors.png","Palldiointeriors","Jumeirah Lakes Towers Jewellery & Gemplex 3","+971 55-754-1324","Interior Designer","","http://palladiointeriors.ae/"],
+["","We Love Pizza (Italian)","Cluster U, Al Seef Tower 2, UnitG04","04-457-7907/7908","Pizza Place","","https://www.facebook.com/pages/We-Love-Pizza-JLT/384835368392584?__mref=message_bubble"],
+["etfetter.png","E & T Feteer","Cluster J,J2 Tower Unit 16","04-456-0806","Speciality Restaurants","","http://facebook.com/eatfeteer"]
 
 
 ];

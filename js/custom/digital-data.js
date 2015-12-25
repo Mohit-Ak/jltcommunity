@@ -8,8 +8,8 @@ var dataSet = [
 			["descoonline.png","Desco (copy & print center)","JBC 1","04-434-5663/2","Digital Services","","http://descoonline.com/"],
 			["descoonline.png","Desco (copy & print center)","1 Lake Plaza","04-554-7678","Digital Services","","http://descoonline.com/"],
 			["","V Print ","Cluster F","04-276-7571","Digital Services","","http://trinityitsupplies.com/"],
-			["printstation.jpg","Print Station ","Cluster X","04-553-8632","Digital Services","","http://printstation.ae/"],
-			["theimprintstudio.jpg","IM Print Studio","Cluster T, Lake Plaza","04-423-2654","Digital Services","","http://theimprintstudio.com/about"],
+			["printstation.jpg","Print Station ","Cluster X3","050-394-5638","Digital Services","","http://printstation.ae/"],
+			["theimprintstudio.jpg","IM Print Studio","Cluster T, Lake Plaza","04-423-2654","Digital Services","","http://theimprintstudio.com"],
 			["stardigitalprints.jpg","Star Digital Prints ","Cluster Y, Lake Shore Tower","04-551-6440","Digital Services","","http://stardigitalprints.com/online/"],
 			["jiffyprintz.jpg","Jiffy Printz","Cluster Y, JBC 5","04-422.4231","Digital Services","","http://jiffyprintz.com"],
 			["trinityitsupplies.png","Trinity IT Supplies JLT","HDS Tower, Shop NO G16","04-422-9808","Digital Services","","http://trinityitsupplies.com/"],
@@ -21,7 +21,9 @@ var dataSet = [
 			["","Taqat Tech","Cluster J","04-553-1460","OtherServices","","http://hridubai.com/"],
 			["","City Stationery JLT","Cluster J","04-423-2087","Stationery Shop","",""],
 			["techfield.png","Techfield DMCC","Jumeirah Lakes Towers, Dubai","04-427-2483 / 0502548667 ","Digital Services","https://goo.gl/maps/im8q9frDXdT2",""],
-			
+			["stepbystep.png","Step By Step","Clust T, One Lake Plaza","04-420-1743","Digital Services","","http://stepbystepjlt.com"],
+			["fixit.png","Fixit Express","Almas -Tower, Shop No:01-26","04-427-6606","Digital Services","","http://fixituae.com"]
+				
 		];
 
 $(document).ready(function() {
