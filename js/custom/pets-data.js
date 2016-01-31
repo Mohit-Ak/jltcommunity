@@ -3,7 +3,7 @@ var dataSet = [
 		["petsinthecity.png","Pest in the City","Cluster D, Lake Terrace, Shop:3","04-458-0091","Pet(s) Care","","http://petsinthecity.me/"],
 		["","Petholicks - One stop Pet Shop","Cluster B, Lake View Tower","04-363-9635","Pet(s) Care","","http://petholicksdubai.com/"],
 		["europets.png","Europets","Cluster D. Lake Terrace Tower, Shop:7","04-421-4885","Pet(s) Care","","http://europets.net/"],
-		["petsplus.png","Pets Plus","Cluster Q, Gate Tower","04-440-5199","Pet(s) Care","","ttps://http://petsplus.ae/"],
+		["petsplus.png","Pets Plus","Cluster Q, Gate Tower","04-440-5199","Pet(s) Care","","https://petsplus.ae/"],
 		["petshousedubai.png","Pet House","Cluster T, 1 Lake Plaza,Shop:11","04-552-0526","Pet(s) Care","","http://petshousedubai.com/"],
 		["petskygroup.jpg","Pet Sky","Cluster Y","04-456-2202","Pet(s) Care","","http://petskygroup.com/"]
 ];

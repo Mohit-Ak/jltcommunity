@@ -41,7 +41,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/geant-banner.png"  alt="slidebg1" data-lazyload="upload/slide/geant-banner.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="upload/slide/desco-banner.jpg"  alt="slidebg1" data-lazyload="upload/slide/desco-banner.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -56,7 +56,7 @@
 								data-splitout="none"
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">GEANT<br><span></span> <br>
+								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">DESCO<br><span>Copy & Print</span> <br>
 							</div>
 							<!-- LAYER NR. 1 -->
 
@@ -65,7 +65,7 @@
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
 							<!-- MAIN IMAGE -->
-							<img src="images/dummy.png"  alt="2" data-lazyload="upload/slide/geant-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+							<img src="images/dummy.png"  alt="2" data-lazyload="upload/slide/desco-banner.jpg" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -80,7 +80,7 @@
 								data-splitout="none"
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">GEANT<br><span></span> <br>
+								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">Desco<br><span>Copy & Print</span> <br>
 							</div>
 							<!-- LAYER NR. 1 -->
 							

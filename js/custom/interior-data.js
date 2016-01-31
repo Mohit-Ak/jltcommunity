@@ -1,10 +1,10 @@
  var dataSet = [
 			["zeninterior.png","Zen Interiors JLT","O2 tower","04-340-5050","Interior Designer","","http://zeninteriors.net/jumeirah-lake-towers-o2-tower-dubai-uae"],
-			["","Lake Side Interior","Cluster D2, Lake Terrace Tower","04-435-6067","Interior Designer","",""],
-			["","Office Fitouts","","04-457-9339","Interior Designer","",""],
-			["pallado.png","Palladio Interiors","Cluster, Indigo Icon Tower","04-427-9610","Interior Designer","","http://palladiointeriors.ae"],
+			["","Lake Side Interior","Cluster D2, Lake Terrace Tower","04-435-6067","Interior Designer","","http://go.2gis.com/2xh7"],
+			["","Office Fitouts","","04-457-9339","Interior Designer","","http://www.dubaiclassified.com/detail.php?id=244066"],
+			["pallado.png","Palladio Interiors","Cluster, Indigo Icon Tower","04-427-9610","Interior Designer","","http://www.palladiointeriors.ae/"],
 			["levant.png","Levant (Mark of Luxury)","Cluster I, Silver Tower, Suite 19D&E","04-447-7940","Interior Designer","","http://levant.com/"],
-			["palldiointeriors.png","Palldiointeriors","Jumeirah Lakes Towers Jewellery & Gemplex 3","+971 55-754-1324","Interior Designer","","http://palladiointeriors.ae/"]
+			["palldiointeriors.png","Palldiointeriors","Jumeirah Lakes Towers Jewellery & Gemplex 3","+971 55-754-1324","Interior Designer","","http://www.palladiointeriors.ae/"]
 		];
 
 $(document).ready(function() {

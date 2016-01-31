@@ -12,6 +12,8 @@ var dataSet = [
 	["cardiolates.png","Cardiolates","Cluster X2, ShopNo:4202","056-798-4655","Fitness Center","","http://cardiolatesmiddleeast.com"],
 	["yogaashram.png","Yoga Ashram","Cluster X3, Suite 1504","04-360-9028/056-281-5554","Fitness Center","","http://yogaashram.com"]
 	
+	
+	
 ];
 
 

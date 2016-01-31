@@ -1,5 +1,5 @@
     var dataSet = [
-		["kidskingdom.png","Kid Kare Nursery","Cluster E","04-441-7673","Nursery / Kids Care","","http://kidskingdom.ae/"],
+		["kidskare.png","Kids Kare Nursery","Cluster E","04-441-7673","Nursery / Kids Care","","http://kidskarenursery.com/"],
 		["rainbowvalleynursery.png","Rainbow Valley Nursery","Cluster G","04-423-2540","Nursery / Kids Care","","http://rainbowvalleynursery.com/"],
 		["four2fourcare.png","Four 2 Four Nursery ","Cluster J1, Gold Crest Views","04-451-7450","Nursery / Kids Care","","http://four2fourcare.com/"],
 		["kidskingdom.png","Kids Kingdom","Cluster L","04-552-1585","Nursery / Kids Care","","http://kidskingdom.ae/"],

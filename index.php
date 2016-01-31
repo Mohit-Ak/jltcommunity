@@ -27,10 +27,41 @@
     <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
     <script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
     <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
- 
+	<!-- News Feeds Widget -->
+		<script src="http://www.building58.com/examples/js/jquery.tabSlideOut.v1.3.js"></script>
+		
+		 <script type="text/javascript">
+		    $(function(){
+		        $('.slide-out-div').tabSlideOut({
+		            tabHandle: '.handle',                     //class of the element that will become your tab
+		            pathToTabImage: 'images/News.png', //path to the image for the tab //Optionally can be set using css
+		            imageHeight: '122px',                     //height of tab image           //Optionally can be set using css
+		            imageWidth: '40px',                       //width of tab image            //Optionally can be set using css
+		            tabLocation: 'right',                      //side of screen where tab lives, top, right, bottom, or left
+		            speed: 300,                               //speed of animation
+		            action: 'click',                          //options: 'click' or 'hover', action to trigger animation
+		            topPos: '156px',                          //position from the top/ use if tabLocation is left or right
+		            leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+		            fixedPosition: true                      //options: true makes it stick(fixed position) on scroll
+		        });
+		        setTimeout(function(){ 
+		        	$(".handle").click();
+		        }, 5000);		        
+		    });
+		</script>
+	<!-- News Feeds Widget -->                        
 </head>
 <body id="homeWrap">
-
+	<!-- News Feeds Widget -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+	<!-- News Feeds Widget -->
 	<!-- Container -->
 	<div id="container">
 		<!-- Begin Header Include -->
@@ -790,5 +821,11 @@
 		});	//ready
 		
 	</script>
+	<!-- News Feeds Widget -->
+		<div class="slide-out-div">
+	            <a class="handle" href="http://link-for-non-js-users.html">Content</a>
+	           	<div class="fb-page" data-href="https://www.facebook.com/TheJLTCommunity" data-tabs="timeline" data-width="448" data-height="547" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/TheJLTCommunity"><a href="https://www.facebook.com/TheJLTCommunity">JLT_Community</a></blockquote></div></div>
+	    </div>
+    <!-- News Feeds Widget -->
 </body>
 </html>

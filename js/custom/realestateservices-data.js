@@ -6,8 +6,8 @@
 			["sapphiredubai.jpg","Sapphire & Co. JLT","Goldcrest Executive","04-447-1778","Real Estate Services","","http://sapphiredubai.com"],
 			["orientdesertrealestate.png","Orient Desert Real Estate","Armada P3","04-435-6856","Real Estate Services","","http://orientdesertrealestate.com"],
 			["atomicproperties.jpg","Atomic Properties","1 Lake Plaza","04-434-2678","Real Estate Services","","http://atomicproperties.org"],
-			["","BetterHomes","Cluster D","04-306-8722","Rent & Sales","",""],
-			["","Zen Indigo Properties LLC","Indigo Tower","","Rent & Sales","",""]
+			["betterhomes.png","BetterHomes","Cluster D","04-306-8722","Rent & Sales","","http://bhomes.com/"],
+			["","Zen Indigo Properties LLC","Indigo Tower","","Rent & Sales","","https://bayut.com/to-rent/apartments/dubai/discovery-gardens/zen/?gclid=CL24z4nuvMoCFYMIwwodgbUGDw#rd_purpose=2&cat_id=5237&property_type=4,17,12,14,16,3,10,8,13,9,5,11,15,6,7"]
 		];
  
 $(document).ready(function() {
