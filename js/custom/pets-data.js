@@ -5,7 +5,8 @@ var dataSet = [
 		["europets.png","Europets","Cluster D. Lake Terrace Tower, Shop:7","04-421-4885","Pet(s) Care","","http://europets.net/"],
 		["petsplus.png","Pets Plus","Cluster Q, Gate Tower","04-440-5199","Pet(s) Care","","https://petsplus.ae/"],
 		["petshousedubai.png","Pet House","Cluster T, 1 Lake Plaza,Shop:11","04-552-0526","Pet(s) Care","","http://petshousedubai.com/"],
-		["petskygroup.jpg","Pet Sky","Cluster Y","04-456-2202","Pet(s) Care","","http://petskygroup.com/"]
+		["petskygroup.jpg","Pet Sky","Cluster Y","04-456-2202","Pet(s) Care","","http://petskygroup.com/"],
+		["","Pompered Poochies SPA DMCC","Cluster C","04-276-7160","Pet(s) Care","","http://ppoochies.com/"],
 ];
  
 $(document).ready(function() {

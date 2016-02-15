@@ -11,7 +11,8 @@ var dataSet = [
     ["","New Mark Pharmacy","Cluster T, Fortune Executive","04-432-7303","Pharmacy","",""],
     ["","Health First Pharmacy","Cluster U. Al Seef 2","04-552-0732","Pharmacy","",""],
     ["","Alpha Pharmacy","Cluster W, JBC , Shop No.3","04-333-5520","Pharmacy","",""],
-    ["","Sai Lakes Pharmacy","Cluster A","04-447-1337/1335","Pharmacy","",""]
+    ["","Sai Lakes Pharmacy","Cluster A","04-447-1337/1335","Pharmacy","",""],
+    ["","Estilo Optics","shop#5, Al waleed Paradise, Cluste-R, ","+971-3608530","Pharmacy","","http://estilooptics.com/"]
    
 ];
 

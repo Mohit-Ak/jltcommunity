@@ -1,8 +1,8 @@
 var dataSet = [
 	["thechampionclubcom.png","The Champiob Club (Martial Arts)","Cluster L","04-447-4980","Fitness Center","","http://thechampionclub.com/index.php"],
-	["","Smart Fitness","Cluster M","04-438-5055","Fitness Center","",""],
+	["","Smart Fitness","Cluster M","04-438-5055","Fitness Center","","http://smartfitness.ae/"],
 	["targetgym.png","Target Gym","Cluster Q","04-421-0372","Fitness Center","","http://targetgym.ae"],
-	["","Fitness Zone ","Cluster R","04-451-0522","Fitness Center","",""],
+	["fitnesszone.png","Fitness Zone ","Cluster R","04-451-0522","Fitness Center","","http://www.fitnesszonedubai.com/"],
 	["fitmyway.png","Fit My Way","Cluster X2, ShopNo:S 14","04-420-3677","Fitness Center","","http://fitmyway.net"],
 	["rails.png","Rails Billiards & Snooker ","Red Diamond, JLT","04-432-7742","Fitness Center","","http://rails.ae"],
 	["","Cool Look Aesthetic & Fitness Ceter","Cluster E, Lake View No:7-11","04-368-8736","Fitness Center","",""],

@@ -61,7 +61,9 @@
 								</div>
 								</div>
 								<p class="copyright">
-								Developed and maintained by American Internet solutions. &copy; Copyright 2015
+								<a target="_blank" href="disclaimer.php" style='color: #fff'>
+								JLT Community  |  Disclaimer &copy; Copyright 2015
+								</a>
 								</p>
 								
 									

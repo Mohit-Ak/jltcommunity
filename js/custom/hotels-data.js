@@ -3,10 +3,9 @@
     var dataSet = [
            		
            		["","UBK Watch Your Speed (Drinks deal)","cluster A","04-438-0000","Hotel Apartments","",""],
-           		["","Movenpick Hotel JLT","Cluster A, Building 2","04-438-0000","Hotel Apartments","",""],
+           		["moveandpick.png","Movenpick Hotel JLT","Cluster A, Building 2","04-438-0000","Hotel Apartments","","http://movenpick.com/en/middle-east/uae/dubai/dubai-jumeirah-lakes-towers/overview/"],
            		["bonnington.jpg","Bonnington Hotel Apartments","","","Hotel Apartments","","http://bonningtontower.com/"],
-           		["","Pullman Hotel Apartments","","","Hotel Apartments","",""],
-           		["","Movenpick Hotel JLT","Cluster A","04-438-0000","Hotel Apartments","",""],
+           		["","Pullman Hotel Apartments","","","Hotel Apartments","","http://pullman-jumeirah-lakes-towers.dubaihoteluae.com/"],
            		["OAKShotelsandresorts.gif","Oaks Hotels & Resorts","JBC","04-436-3434","Hotel Apartments","","http://oakshotelsresorts.com/"]
            	
 ];
