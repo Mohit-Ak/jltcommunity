@@ -8,7 +8,7 @@
 							<div class="col-md-6">
 								<p>
 									<span><i class="fa fa-phone"></i>050-459-7565</span>
-									<span><i class="fa fa-envelope-o"></i>jltcommunity.uae@gmail.com / admin@jltcommunity.com
+									<span><i class="fa fa-envelope-o"></i>jltcommunity.uae@gmail.com
 									</span>
 								</p>
 							</div>	
@@ -34,7 +34,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""></a>
+						<a class="navbar-brand" href="index.php"><img src="images/logo.png" class="jlt-logo-img" alt="JLT Logo"></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->

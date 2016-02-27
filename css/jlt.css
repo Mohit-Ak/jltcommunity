@@ -56,3 +56,18 @@
 	}
 }
 
+@media (max-width: 1199px){
+	.jlt-logo-img{
+		 content:url("../images/logo-mobile.png");
+		 width:60px;
+		 height : 60px;
+		 /* display: none!important; */
+	}
+	.navbar-brand{
+	    padding: 10px 4px;
+	}
+	header.active .navbar-brand {
+    padding: 0;
+}
+
+
