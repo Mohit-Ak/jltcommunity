@@ -41,7 +41,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/royalfashion-banner.png"  alt="slidebg1" data-lazyload="upload/slide/royalfashion-banner.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="upload/slide/RoyalFashions-banner.jpg"  alt="slidebg1" data-lazyload="upload/slide/RoyalFashions-banner.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
