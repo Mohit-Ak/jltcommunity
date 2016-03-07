@@ -44,12 +44,14 @@
 							<img src="upload/slide/RoyalFashions-banner.jpg"  alt="slidebg1" data-lazyload="upload/slide/RoyalFashions-banner.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
+					
+
 						</li>
 
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/uaeflowers-banner.png"  alt="2" data-lazyload="upload/slide/uaeflowers-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+							<img src=""  alt="2" data-lazyload="upload/slide/uaeflowers-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
 							<!-- LAYERS -->
 							
 						</li>
