@@ -44,45 +44,13 @@
 							<img src="upload/slide/RoyalFashions-banner.jpg"  alt="slidebg1" data-lazyload="upload/slide/RoyalFashions-banner.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
-								data-x="0"
-								data-y="280" 
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.1"
-								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">ROYAL FASHION <br><span></span> <br>
-							</div>
-							<!-- LAYER NR. 1 -->
-
 						</li>
 
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
 							<!-- MAIN IMAGE -->
-							<img src="images/uaeflowers-banner.png"  alt="2" data-lazyload="upload/slide/uaeflowers-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+							<img src="upload/slide/uaeflowers-banner.png"  alt="2" data-lazyload="upload/slide/uaeflowers-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
 							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
-								data-x="0"
-								data-y="280" 
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.1"
-								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">UAE FLOWERS<br><span></span> <br>
-							</div>
-							<!-- LAYER NR. 1 -->
 							
 						</li>
 						
