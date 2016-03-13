@@ -41,7 +41,7 @@
 					<ul>	<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/RoyalFashions-banner.jpg"  alt="slidebg1" data-lazyload="upload/slide/RoyalFashions-banner.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+								<img src="upload/slide/uaeflowers-banner.png"  alt="slidebg1" data-lazyload="upload/slide/uaeflowers-banner.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 					
@@ -49,9 +49,9 @@
 						</li>
 
 						<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
+						<li class="royal-fashion-bannerwrap" data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide" onclick="javascript: window.open('http://www.royalfashion.biz/', '_blank');">
 							<!-- MAIN IMAGE -->
-							<img src=""  alt="2" data-lazyload="upload/slide/uaeflowers-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+							<img src="" alt="2" data-lazyload="upload/slide/RoyalFashions-banner.jpg" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="110" data-bgfitend="95" data-bgpositionend="center bottom">
 							<!-- LAYERS -->
 							
 						</li>
@@ -150,7 +150,7 @@
 				hideSliderAtLimit:0,
 				hideCaptionAtLimit:0,
 				hideAllCaptionAtLilmit:0,
-				startWithSlide:0,
+				startWithSlide:1,
 				fullScreenOffsetContainer: ".header"	
 			});
 							

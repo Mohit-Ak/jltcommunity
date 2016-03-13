@@ -33,6 +33,10 @@
     margin-top: 60px!important;
 }
 
+.tp-banner-container .royal-fashion-bannerwrap{
+	cursor : pointer;
+}
+
 @media (min-width: 768px){
 	.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
 	    margin-left: -49px;
