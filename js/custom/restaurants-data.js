@@ -168,7 +168,10 @@
 		["gforme.png","G's café (Free WiFi)","Cluster F","04-391-8841","Bakery","","http://gforme.ae/"],
 		
 		["","Succharia Organic IceCream","Cluster C","04-426-9062","IceCream & Dessert","","https://zomato.com/dubai/succharia-organic-ice-cream-jumeirah-lake-towers"],
-		["","London Dairy","Cluster W","050-918-7946","IceCream & Dessert","","http://restaurantfinder.msn.co.nz/restaurant/london-dairy-jumeirah-lake-towers"]
+		["","London Dairy","Cluster W","050-918-7946","IceCream & Dessert","","http://restaurantfinder.msn.co.nz/restaurant/london-dairy-jumeirah-lake-towers"],
+		
+		["hroldbistrot.jpg","HEOL Bistrot","Cluster F, Indigo Icon Tower, 1st Floor, JLT","043-982-015","French creperie","","https://www.facebook.com/heoldubai/"]
+		
 ];
     
   

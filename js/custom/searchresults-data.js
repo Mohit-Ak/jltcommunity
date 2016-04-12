@@ -495,8 +495,8 @@
 ["","Amro Style Salon","UB shop No:6","050-472-5400","Hair Salon","","https://www.facebook.com/AmroStyle/"],
 ["","Mike Beauty Salon","Armada Tower 1, HC-34th","04-395-8888","Hair Salon","","https://facebook.com/Mike-Salon-Armada-beauty-JLT-229302417205411/"],
 ["epicbeauty.png","EPIC BEAUTY DMCC","Green Lakes Towers S3, Shop S20, Ground Level","+971 044471815 / +971 507744988","Beauty Salon & Spa","https://goo.gl/maps/Y5w8uv31icr","http://epicbeautydubai.com"],
-["armadaspa.png","Armada Spa","Armada Tower 1, HealthClub Floor","04-395-8888","Hair Salon","","http://armadaspa.com"]
-
+["armadaspa.png","Armada Spa","Armada Tower 1, HealthClub Floor","04-395-8888","Hair Salon","","http://armadaspa.com"],
+["hroldbistrot.jpg","HEOL Bistrot","Cluster F, Indigo Icon Tower, 1st Floor, JLT","043-982-015","French creperie","","https://www.facebook.com/heoldubai/"]
 
 ];
     
