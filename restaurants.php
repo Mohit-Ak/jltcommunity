@@ -39,20 +39,28 @@
 			<div class="tp-banner-container">
 				<div class="tp-banner" >
 					<ul>	<!-- SLIDE  -->
+						
+						
+						<li class="heol-bannerwrap" data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on" data-title="Ken Burns Slide" onclick="javascript: window.open('https://www.facebook.com/heoldubai/', '_blank');">
+							<!-- MAIN IMAGE -->
+							<img src="images/dummy.png"  alt="Heol-French creperie" data-lazyload="upload/slide/heol-banner.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+							<!-- LAYERS -->
+						</li>
+						
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/broccoli.png"  alt="slidebg1" data-lazyload="upload/slide/broccoli.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="upload/slide/broccoli.png"  alt="Broccoli" data-lazyload="upload/slide/broccoli.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 						</li>
-
+						
 						<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
+<!-- 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide"> -->
 							<!-- MAIN IMAGE -->
-							<img src="images/dummy.png"  alt="2" data-lazyload="upload/slide/pizzame.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
+<!-- 							<img src="images/dummy.png"  alt="2" data-lazyload="upload/slide/pizzame.png" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom"> -->
 							<!-- LAYERS -->
 
-						</li>
+<!-- 						</li> -->
 					</ul>
 					<div class="tp-bannertimer"></div>
 				</div>
@@ -92,7 +100,7 @@
 			jQuery('.tp-banner').show().revolution(
 			{
 				dottedOverlay:"none",
-				delay:10000,
+				delay:15000,
 				startwidth:1140,
 				startheight:400,
 				hideThumbs:200,
@@ -112,7 +120,7 @@
 				swipe_max_touches: 1,
 				drag_block_vertical: false,
 										
-										parallax:"mouse",
+				parallax:"mouse",
 				parallaxBgFreeze:"on",
 				parallaxLevels:[7,4,3,2,5,4,3,2,1,0],
 										
