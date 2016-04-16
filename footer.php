@@ -52,9 +52,10 @@
 							<h2>Info</h2>
 								<p class="first-par">You can contact or visit us during working time.</p>
 								<p><span><i class="fa fa-user"></i></span> : Fahad Abdul Latif Al Hammadi</p>
-								<p><span>Tel:</span> 050-459-7565</p>
+								<p><span>Tel:</span> 055-936-9987</p>
 								<p><span>Email: </span>jltcommunity.uae@gmail.com / admin@jltcommunity.com</p>
 								<p><span>Working Hours: </span> 8:00 hrs - 17:00 hrs</p>
+								<p><span>Note: </span>This site is not associated in any way with DMCC. Please read Disclaimer Copyright for further details as linked below</p>
 								</div>
 								</div>
 								</div>

@@ -10,7 +10,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="Contact information for Jumeirah Lakes Towers (JLT) , Sheikh Zayed Road, Dubai, United Arab Emirates (UAE)">
-	<meta name="keywords" content="Jumeirah Lakes Towers JLTCommunity JLTCommunity.com ContactUs contact Dubai UAE Building Community Society Infrastructure freezone development lakefront business live work play sponsor">
+	<meta name="keywords" content="JLT Jumeirah Lakes Towers JLTCommunity JLTCommunity.com ContactUs contact Dubai UAE Building Community Society Infrastructure freezone development lakefront business live work play sponsor">
 	<!-- Begin commoncsstoinclude.php Include -->
 			<?php
    				require('commoncsstoinclude.php');
@@ -39,7 +39,7 @@
 						<ul class="information-list">
 							<li><i class="fa fa-map-marker"></i><span>Jumeirah Lake Towers, Sheikh Zayed Road, Dubai, United Arab Emirates</span></li>
 							<li><i class="fa fa-user"></i><span>Fahad Abdul Latif Al Hammadi</span></li>
-							<li><i class="fa fa-phone"></i><span>050-459-7565</span></li>
+							<li><i class="fa fa-phone"></i><span>055-936-9987</span></li>
 							<li><i class="fa fa-envelope-o"></i><a href="#">jltcommunity.uae@gmail.com</a></li>
 							<li><i class="fa fa-envelope-o"></i><a href="#">admin@jltcommunity.com</a></li>
 							

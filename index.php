@@ -10,7 +10,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="Jumeirah Lakes Towers (JLT) is a 200-hectare fastest growing free zone development in Dubai,UAE. Offers commercial, residential and retail property. JLT community has 79 towers with around 25,000 residents and 10,000 people working.">
-	<meta name="keywords" content="Jumeirah Lakes Towers JLTCommunity JLTCommunity.com HomePage Index Dubai UAE Building Community Society Infrastructure freezone development lakefront business live work play sponsor">
+	<meta name="keywords" content="JLT Jumeirah Lakes Towers JLTCommunity JLTCommunity.com HomePage Index Dubai UAE Building Community Society Infrastructure freezone development lakefront business live work play sponsor">
 	<meta name="google-site-verification" content="IkE4lyez0J-9WErVb_HcaiFJZwlxQaeCkNqj8djp6-A" />
 		<!-- Begin commoncsstoinclude.php Include -->
 			<?php
