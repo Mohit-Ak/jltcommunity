@@ -39,7 +39,7 @@
 						<ul class="information-list">
 							<li><i class="fa fa-map-marker"></i><span>Jumeirah Lake Towers, Sheikh Zayed Road, Dubai, United Arab Emirates</span></li>
 							<li><i class="fa fa-user"></i><span>Fahad Abdul Latif Al Hammadi</span></li>
-							<li><i class="fa fa-phone"></i><span>055-936-9987</span></li>
+							<li><i class="fa fa-phone"></i><span>055-856-0054</span></li>
 							<li><i class="fa fa-envelope-o"></i><a href="#">jltcommunity.uae@gmail.com</a></li>
 							<li><i class="fa fa-envelope-o"></i><a href="#">admin@jltcommunity.com</a></li>
 							

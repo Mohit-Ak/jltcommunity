@@ -7,7 +7,7 @@
 						<div class="row">
 							<div class="col-md-6">
 								<p>
-									<span><i class="fa fa-phone"></i>055-936-9987</span>
+									<span><i class="fa fa-phone"></i>055-856-0054</span>
 									<span><i class="fa fa-envelope-o"></i>jltcommunity.uae@gmail.com
 									</span>
 								</p>

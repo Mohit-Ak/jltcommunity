@@ -39,7 +39,7 @@
 								<h2>Contact Info</h2>
 								<ul class="information-list">
 									<li><i class="fa fa-map-marker"></i><span>JLT Community, Dubai, UAE</span></li>
-									<li><i class="fa fa-phone"></i><span>055-936-9987</span></li>
+									<li><i class="fa fa-phone"></i><span>055-856-0054</span></li>
 									<li><i class="fa fa-envelope-o"></i><a href="#">admin@jltcommunity.com</a></li>
 								</ul>						
 							</div>
