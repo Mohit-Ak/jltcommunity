@@ -154,8 +154,6 @@
 		["shawermania.jpg","Shawermania DMCC","Shop P02, Dubai Gate 1, Cluster Q, Jumeirah Lakes Towers"," 04-454-3024","Speciality Restaurants","https://goo.gl/maps/6hXrUSjshmo","http://shawermania.ae/"],
 		["etfetter.png","E & T Feteer","Cluster J,J2 Tower Unit 16","04-456-0806","Speciality Restaurants","","http://facebook.com/eatfeteer"],
 		
-		
-		
 		["","Sarang Bakery JLT","Cluster C","04-552-1284","Bakery","","https://zomato.com/dubai/sarang-bakery-jumeirah-lake-towers"],
 		["","Donaccino (Desert & Bakery)","Cluster D","04-276-7110","Bakery","","http://ildonaccino.com/"],
 		["","Rolin Pin Bakery & Café","Cluster H","04-448-3335","Bakery","",""],
@@ -170,8 +168,8 @@
 		["","Succharia Organic IceCream","Cluster C","04-426-9062","IceCream & Dessert","","https://zomato.com/dubai/succharia-organic-ice-cream-jumeirah-lake-towers"],
 		["","London Dairy","Cluster W","050-918-7946","IceCream & Dessert","","http://restaurantfinder.msn.co.nz/restaurant/london-dairy-jumeirah-lake-towers"],
 		
-		["hroldbistrot.jpg","HEOL Bistrot","Cluster F, Indigo Icon Tower, 1st Floor, JLT","043-982-015","French creperie","","https://www.facebook.com/heoldubai/"]
-		
+		["hroldbistrot.jpg","HEOL Bistrot","Cluster F, Indigo Icon Tower, 1st Floor, JLT","043-982-015","French creperie","","https://www.facebook.com/heoldubai/"],
+		["eggdhaba.png","Egg Dhaba Restaurant","Cluster H Lake Level,JLT, Dubai","+97144-341-269","Speciality Restaurants","","http://www.eggdhaba.ae/"]
 ];
     
   

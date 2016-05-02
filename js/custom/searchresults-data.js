@@ -340,7 +340,8 @@
 ["","Baguette Burger","Cluster Q","04-456-4984","Speciality Restaurants","","https://roundmenu.com/restaurant/baguette-burger-dubai/905093/jlt"],
 ["shiekandshake.png","Sheikh & Shake","Cluster R","04-452-2273","Speciality Restaurants","","http://sheikhandshake.com/"],
 ["","Q meal","Cluster R","04-451-0522","Speciality Restaurants","","https://zomato.com/dubai/qmeal-restaurant-jlt-jumeirah-lake-towers"],
-
+["hroldbistrot.jpg","HEOL Bistrot","Cluster F, Indigo Icon Tower, 1st Floor, JLT","043-982-015","French creperie","","https://www.facebook.com/heoldubai/"],
+["eggdhaba.png","Egg Dhaba Restaurant","Cluster H Lake Level,JLT, Dubai","+97144-341-269","Speciality Restaurants","","http://www.eggdhaba.ae/"],
 
 ["","Sarang Bakery JLT","Cluster C","04-552-1284","Bakery","","https://zomato.com/dubai/sarang-bakery-jumeirah-lake-towers"],
 ["","Donaccino (Desert & Bakery)","Cluster D","04-276-7110","Bakery","","http://ildonaccino.com/"],
@@ -495,9 +496,7 @@
 ["","Amro Style Salon","UB shop No:6","050-472-5400","Hair Salon","","https://www.facebook.com/AmroStyle/"],
 ["","Mike Beauty Salon","Armada Tower 1, HC-34th","04-395-8888","Hair Salon","","https://facebook.com/Mike-Salon-Armada-beauty-JLT-229302417205411/"],
 ["epicbeauty.png","EPIC BEAUTY DMCC","Green Lakes Towers S3, Shop S20, Ground Level","+971 044471815 / +971 507744988","Beauty Salon & Spa","https://goo.gl/maps/Y5w8uv31icr","http://epicbeautydubai.com"],
-["armadaspa.png","Armada Spa","Armada Tower 1, HealthClub Floor","04-395-8888","Hair Salon","","http://armadaspa.com"],
-["hroldbistrot.jpg","HEOL Bistrot","Cluster F, Indigo Icon Tower, 1st Floor, JLT","043-982-015","French creperie","","https://www.facebook.com/heoldubai/"]
-
+["armadaspa.png","Armada Spa","Armada Tower 1, HealthClub Floor","04-395-8888","Hair Salon","","http://armadaspa.com"]
 ];
     
   
