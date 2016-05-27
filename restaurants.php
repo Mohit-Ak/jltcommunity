@@ -47,12 +47,12 @@
 							<!-- LAYERS -->
 						</li>
 						
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
+							<li class="heol-bannerwrap" data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on" data-title="Ken Burns Slide" onclick="javascript: window.open('https://www.eggdhaba.ae/', '_blank');">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/broccoli.png"  alt="Broccoli" data-lazyload="upload/slide/broccoli.png" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="images/eggdhaba-banner.jpg"  alt="Egg Dhaba" data-lazyload="upload/slide/eggdhaba-banner.jpg" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
 							<!-- LAYERS -->
-
 						</li>
+						
 						
 						<!-- SLIDE  -->
 <!-- 						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide"> -->
@@ -155,7 +155,7 @@
 				hideSliderAtLimit:0,
 				hideCaptionAtLimit:0,
 				hideAllCaptionAtLilmit:0,
-				startWithSlide:0,
+				startWithSlide:1,
 				fullScreenOffsetContainer: ".header"	
 			});
 							
