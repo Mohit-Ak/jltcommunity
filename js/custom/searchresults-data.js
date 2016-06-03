@@ -296,7 +296,7 @@
 ["","Little Bangkok (Urban Thai Cuisine)","","800BANGKOK","Speciality Restaurants","","http://www.littlebangkok.com/"],
 ["mantoushe.png","Mantoushe","Cluster P","04-277-8170","Speciality Restaurants","","http://mantoushe.com/"],
 ["","Star Fish (Sea Food)","Cluster Q","04-434-0543","Speciality Restaurants","","https://zomato.com/dubai/star-fish-jumeirah-lake-towers/menu"],
-["","4 Guys (Mexican)","Cluster T","04-435-7377","Speciality Restaurants","","https://zomato.com/dubai/4guys-jumeirah-lake-towers/menu"],
+["firstclique.jpg","Clique Cafe & Restaurant","Ground Floor, Fortune Executive Towers, Cluster T, Jumeirah Lake Towers","+971-0-44357377","Speciality Restaurants","https://goo.gl/maps/pjFqWTBM9kr","http://www.firstclique.ae/"],
 ["alfayak.png","Ala Kayfak (Labanese)","Cluster U","04-453-9954","Speciality Restaurants","","http://alakayfak.com"],
 ["","Labanese Kitchen","Cluster Y","04-554-5872","Speciality Restaurants","",""],
 ["broccoli.png","Broccoli (Pizza & Pasta)","Cluster X","04-551-9319","Speciality Restaurants","","http://broccoli.ae"],
