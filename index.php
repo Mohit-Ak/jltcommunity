@@ -392,7 +392,7 @@
 						<div class="offer-post">
 							<a target="_blank" href="http://fitmyway.net"><img src="upload/others/Fitmyway.png" alt=""></a>
 							<h2><a target="_blank" href="http://fitmyway.net">Fit My Way</a></h2>
-							<p>FitMyway was established in 2009 with a simple vision “To become a preferred provider of a wide selection of fitness options for ladies in a friendly & exciting atmosphere”. We launched our first Aerobic studio in Cairo in June 2009. Followed by our first ladies only Gym in 2011 and now opening in Dubai – UAE at Jumeirah Lake Towers.</p>
+							<p>FitMyway was established in 2009 with a simple vision “To become a preferred provider of a wide selection of fitness options for ladies in a friendly & exciting atmospheres. We launched our first Aerobic studio in Cairo in June 2009. Followed by our first ladies only Gym in 2011 and now opening in Dubai – UAE at Jumeirah Lake Towers.</p>
 							<ul class="offer-list">
 								<li><i class="fa fa-cube"></i> Aerobic Classes</li>
 								<li><i class="fa fa-cube"></i> Dancing Classes</li>
@@ -807,7 +807,7 @@
 					</div>
 					<div class="col-md-6">
 						<blockquote>
-							<p>There are some of <span>our sponsors</span> and <span>customers</span>, who are very satisfied with our work. <br>Do you want to be <span><a href="contact2.php" target="_blank">next one</a></span> ?</p>
+							<p>Many of <span>our sponsors</span> and <span>customers</span>, are very satisfied with our work. <br>Do you want to be <span><a href="contact2.php" target="_blank">next one</a></span> ?</p>
 						</blockquote>
 					</div>
 				</div>
