@@ -85,7 +85,7 @@
 					<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="Parallax 3D">
 							<!-- MAIN IMAGE -->
-							<img src="upload/slide/jlt3.png"  alt="3dbg" data-lazyload="upload/slide/movenpick-banner.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							<img src="upload/slide/jlt3.png"  alt="3dbg" data-lazyload="upload/slide/BuySellIndexBanner2.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->
@@ -100,7 +100,7 @@
 								data-splitout="none"
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
-								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;"><span>Mövenpick</span>Hotel<br>
+								style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;"><span>BUY &amp;</span> SELL<br>
 							</div>
 
 							<!-- LAYER NR. 2 -->
@@ -115,10 +115,11 @@
 								data-splitout="none"
 								data-elementdelay="0.05"
 								data-endelementdelay="0.1"
-								style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">Contemporary, Modern and Elegantly understated.
-								</br> The Mövenpick Hotel Jumeirah Lakes Towers is based in one of the most dynamic locations in Dubai 
-								</br>Overlooking tranquil lakes and the striking Dubai Marina skyline and offering guests 3 dining 
-								</br>and entertainment options, 7 meeting rooms, an outdoor pool and spa 
+								style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">Your own online JLTCommunity trade store is here.
+								<br> Wanna Buy or Sell something ?
+								<br> Checkout JLT Buy N Sell
+								<br> * Still in Beta Stage 
+								
 								
 							</div>
 
@@ -135,7 +136,7 @@
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
 								data-linktoslide="next"
-								style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;"><a target="_blank" href='http://www.movenpick.com/en/middle-east/uae/dubai/dubai-jumeirah-lakes-towers/overview/' class='trans-btn'>Website</a>
+								style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;"><a target="_blank" href='http://www.jltcommunity.com/BuyNSell' class='trans-btn'>Buy &amp; Sell</a>
 							</div>
 
 							<!-- LAYER NR. 4 -->
@@ -151,7 +152,7 @@
 								data-elementdelay="0.1"
 								data-endelementdelay="0.1"
 								data-linktoslide="next"
-								style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"><a target="_blank"href='https://www.facebook.com/moevenpickhotels/' class='trans-btn2'>Facebook Page</a>
+								style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;"><a target="_blank"href='https://www.facebook.com/TheJLTCommunity' class='trans-btn2'>Facebook Page</a>
 							</div>
 						</li>
 					<!-- SLIDE  -->
