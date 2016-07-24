@@ -1,0 +1,3 @@
+- Upload all files in folder "Buysell" to your host
+- You should create databse first with "utf8"
+- connect to "http://yourhost/intall" if it's not automatic
